@@ -1,1 +1,22 @@
-{"AssociatedEntry":{"m_FileID":0,"m_PathID":0},"IncludedCards":[],"IncludedCardsWarpData":[],"IncludedCardsWarpType":3,"ShopSortingList":[],"SubGroups":[],"TabIcon":{"m_FileID":0,"m_PathID":0},"TabIconWarpData":"ATM\u673a","TabIconWarpType":3,"TabName":{"DefaultText":"ATM\u673a","LocalizationKey":"","ParentObjectID":""}}
+{
+  "AssociatedEntry": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "IncludedCards": [],
+  "IncludedCardsWarpData": [],
+  "IncludedCardsWarpType": 3,
+  "ShopSortingList": [],
+  "SubGroups": [],
+  "TabIcon": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "TabIconWarpData": "ATM\u673A",
+  "TabIconWarpType": 3,
+  "TabName": {
+    "DefaultText": "ATM\u673A",
+    "LocalizationKey": "",
+    "ParentObjectID": ""
+  }
+}

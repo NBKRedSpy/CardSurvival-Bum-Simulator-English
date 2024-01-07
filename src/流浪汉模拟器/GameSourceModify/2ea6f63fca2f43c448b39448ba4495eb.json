@@ -1,1 +1,134 @@
-{"PassiveEffectsWarpData":[{"Conditions":{"NotInBackground":false,"RequiredCardsInInventory":[],"RequiredCardsNOTOnBoard":[],"RequiredCardsOnBoard":[],"RequiredContainer":[],"RequiredContainerTags":[],"RequiredDurabilityRanges":{"FuelRange":{"x":0.0,"y":0.0},"LiquidQuantityRange":{"x":0.0,"y":0.0},"ProgressRange":{"x":0.0,"y":0.0},"Special1Range":{"x":0.0,"y":0.0},"Special2Range":{"x":0.0,"y":0.0},"Special3Range":{"x":0.0,"y":0.0},"Special4Range":{"x":0.0,"y":0.0},"SpoilageRange":{"x":0.0,"y":0.0},"UsageRange":{"x":0.0,"y":0.0}},"RequiredEnvironment":{"m_FileID":0,"m_PathID":0},"RequiredEnvironmentTags":[],"RequiredLiquidContainers":[],"RequiredStatValues":[],"RequiredTagsInInventory":[],"RequiredTagsNOTOnBoard":[],"RequiredTagsOnBoard":[]},"ConsumableChargesModifier":{"Active":false,"FloatValue":0.0},"EffectName":"effect_0","EffectStacksWithRequiredCards":false,"FuelRateModifier":{"Active":false,"FloatValue":0.0},"GeneratedLiquid":{"LiquidCard":{"m_FileID":0,"m_PathID":0},"Quantity":{"x":0.0,"y":0.0}},"LiquidRateModifier":0.0,"OnBoardEffectCap":0,"OnlyOnBaseActions":false,"OnlyWhenEquipped":false,"OnlyWhenNotInBG":false,"Special1RateModifier":{"Active":false,"FloatValue":0.0},"Special2RateModifier":{"Active":false,"FloatValue":0.0},"Special3RateModifier":{"Active":false,"FloatValue":0.0},"Special4RateModifier":{"Active":false,"FloatValue":0.0},"SpoilageRateModifier":{"Active":false,"FloatValue":0.0},"StatModifiers":[{"ApplyEachTick":false,"InstantModifier":false,"IsInverse":false,"RateModifier":{"x":-0.5,"y":-0.5},"Stat":{"m_FileID":0,"m_PathID":0},"StatWarpData":"bac30eb4b950e99404e007927daa8bbc","StatWarpType":3,"ValueModifier":{"x":0,"y":0}}],"UsageRateModifier":{"Active":false,"FloatValue":0.0},"WeightCapacityModifier":0.0}],"PassiveEffectsWarpType":4}
+{
+  "PassiveEffectsWarpData": [
+    {
+      "Conditions": {
+        "NotInBackground": false,
+        "RequiredCardsInInventory": [],
+        "RequiredCardsNOTOnBoard": [],
+        "RequiredCardsOnBoard": [],
+        "RequiredContainer": [],
+        "RequiredContainerTags": [],
+        "RequiredDurabilityRanges": {
+          "FuelRange": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "LiquidQuantityRange": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "ProgressRange": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "Special1Range": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "Special2Range": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "Special3Range": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "Special4Range": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "SpoilageRange": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "UsageRange": {
+            "x": 0.0,
+            "y": 0.0
+          }
+        },
+        "RequiredEnvironment": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "RequiredEnvironmentTags": [],
+        "RequiredLiquidContainers": [],
+        "RequiredStatValues": [],
+        "RequiredTagsInInventory": [],
+        "RequiredTagsNOTOnBoard": [],
+        "RequiredTagsOnBoard": []
+      },
+      "ConsumableChargesModifier": {
+        "Active": false,
+        "FloatValue": 0.0
+      },
+      "EffectName": "effect_0",
+      "EffectStacksWithRequiredCards": false,
+      "FuelRateModifier": {
+        "Active": false,
+        "FloatValue": 0.0
+      },
+      "GeneratedLiquid": {
+        "LiquidCard": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "Quantity": {
+          "x": 0.0,
+          "y": 0.0
+        }
+      },
+      "LiquidRateModifier": 0.0,
+      "OnBoardEffectCap": 0,
+      "OnlyOnBaseActions": false,
+      "OnlyWhenEquipped": false,
+      "OnlyWhenNotInBG": false,
+      "Special1RateModifier": {
+        "Active": false,
+        "FloatValue": 0.0
+      },
+      "Special2RateModifier": {
+        "Active": false,
+        "FloatValue": 0.0
+      },
+      "Special3RateModifier": {
+        "Active": false,
+        "FloatValue": 0.0
+      },
+      "Special4RateModifier": {
+        "Active": false,
+        "FloatValue": 0.0
+      },
+      "SpoilageRateModifier": {
+        "Active": false,
+        "FloatValue": 0.0
+      },
+      "StatModifiers": [
+        {
+          "ApplyEachTick": false,
+          "InstantModifier": false,
+          "IsInverse": false,
+          "RateModifier": {
+            "x": -0.5,
+            "y": -0.5
+          },
+          "Stat": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "StatWarpData": "bac30eb4b950e99404e007927daa8bbc",
+          "StatWarpType": 3,
+          "ValueModifier": {
+            "x": 0,
+            "y": 0
+          }
+        }
+      ],
+      "UsageRateModifier": {
+        "Active": false,
+        "FloatValue": 0.0
+      },
+      "WeightCapacityModifier": 0.0
+    }
+  ],
+  "PassiveEffectsWarpType": 4
+}

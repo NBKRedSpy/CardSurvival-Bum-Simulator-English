@@ -1,1 +1,29 @@
-{"AssociatedEntry":{"m_FileID":0,"m_PathID":0},"IncludedCards":[],"IncludedCardsWarpData":["a08f4a07969e5600b386cc8145a3a045","f832165571ae72903f8fe69566d14f08","0fb93a934b6a9ca9b1d7a2971115548d","190a9472029cca9438d492b2c798c478","9cd7542768b87ce08d18c4616ed72ac1","451ca2d1b4575796df12aaeac7aea80c"],"IncludedCardsWarpType":3,"ShopSortingList":[],"SubGroups":[],"TabIcon":{"m_FileID":0,"m_PathID":0},"TabIconWarpData":"\u6d41\u6d6a\u6c49\u6c34\u679c","TabIconWarpType":3,"TabName":{"DefaultText":"\u6d41\u6d6a\u6c49\u6c34\u679c","LocalizationKey":"","ParentObjectID":""}}
+{
+  "AssociatedEntry": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "IncludedCards": [],
+  "IncludedCardsWarpData": [
+    "a08f4a07969e5600b386cc8145a3a045",
+    "f832165571ae72903f8fe69566d14f08",
+    "0fb93a934b6a9ca9b1d7a2971115548d",
+    "190a9472029cca9438d492b2c798c478",
+    "9cd7542768b87ce08d18c4616ed72ac1",
+    "451ca2d1b4575796df12aaeac7aea80c"
+  ],
+  "IncludedCardsWarpType": 3,
+  "ShopSortingList": [],
+  "SubGroups": [],
+  "TabIcon": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "TabIconWarpData": "\u6D41\u6D6A\u6C49\u6C34\u679C",
+  "TabIconWarpType": 3,
+  "TabName": {
+    "DefaultText": "\u6D41\u6D6A\u6C49\u6C34\u679C",
+    "LocalizationKey": "",
+    "ParentObjectID": ""
+  }
+}

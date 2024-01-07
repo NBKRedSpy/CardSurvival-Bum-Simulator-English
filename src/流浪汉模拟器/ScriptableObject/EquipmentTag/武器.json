@@ -1,1 +1,8 @@
-{"InGameName":{"DefaultText":"\u6b66\u5668","LocalizationKey":"","ParentObjectID":""},"MaxEquipped":2}
+{
+  "InGameName": {
+    "DefaultText": "\u6B66\u5668",
+    "LocalizationKey": "",
+    "ParentObjectID": ""
+  },
+  "MaxEquipped": 2
+}

@@ -1,1 +1,2122 @@
-{"CardInteractionsWarpData":[],"CardInteractionsWarpType":4,"CookingRecipesWarpData":[{"ActionName":{"DefaultText":"cook_0","LocalizationKey":"","ParentObjectID":""},"CannotCookText":{"DefaultText":"","LocalizationKey":"","ParentObjectID":""},"CompatibleCards":[],"CompatibleTags":[],"Conditions":{},"ConditionsCard":0,"CookerChanges":{"ChargesChange":{"x":0.0,"y":0.0},"DropOnDestroyList":false,"FuelChange":{"x":0.0,"y":0.0},"LiquidEffectScaling":0,"LiquidQuantityChange":{"x":0.0,"y":0.0},"ModType":0,"ModifyDurability":false,"ModifyLiquid":false,"Special1Change":{"x":0.0,"y":0.0},"Special2Change":{"x":0.0,"y":0.0},"Special3Change":{"x":0.0,"y":0.0},"Special4Change":{"x":0.0,"y":0.0},"SpoilageChange":{"x":0.0,"y":0.0},"TransferCharges":false,"TransferFuel":false,"TransferInventory":false,"TransferLiquid":false,"TransferSpecial1":false,"TransferSpecial2":false,"TransferSpecial3":false,"TransferSpecial4":false,"TransferSpoilage":false,"TransferUsage":false,"TransformInto":{"m_FileID":0,"m_PathID":0},"UsageChange":{"x":0.0,"y":0.0}},"CustomCompleteSound":{"m_FileID":0,"m_PathID":0},"CustomCookingText":{"DefaultText":"{0}\u540e\u5b8c\u6210","LocalizationKey":"","ParentObjectID":""},"CustomNotification":{"DefaultText":"","LocalizationKey":"","ParentObjectID":""},"Drops":[{"DroppedCard":{"m_FileID":0,"m_PathID":0},"DroppedCardWarpData":"5530a9b433864a9ad4334d7956efdaaf","DroppedCardWarpType":3,"Quantity":{"x":1.0,"y":1.0}}],"DropsAsCollection":[],"Duration":2,"DurationRdmVariation":0,"HideCookingProgress":false,"HideResultNotification":false,"IngredientChanges":{"ChargesChange":{"x":0.0,"y":0.0},"DropOnDestroyList":false,"FuelChange":{"x":0.0,"y":0.0},"LiquidEffectScaling":0,"LiquidQuantityChange":{"x":0.0,"y":0.0},"ModType":0,"ModifyDurability":false,"ModifyLiquid":false,"Special1Change":{"x":0.0,"y":0.0},"Special2Change":{"x":0.0,"y":0.0},"Special3Change":{"x":0.0,"y":0.0},"Special4Change":{"x":0.0,"y":0.0},"SpoilageChange":{"x":0.0,"y":0.0},"TransferCharges":false,"TransferFuel":false,"TransferInventory":false,"TransferLiquid":false,"TransferSpecial1":false,"TransferSpecial2":false,"TransferSpecial3":false,"TransferSpecial4":false,"TransferSpoilage":false,"TransferUsage":false,"TransformInto":{"m_FileID":0,"m_PathID":0},"UsageChange":{"x":0.0,"y":0.0}},"Notification":0,"RandomSingleDrop":false,"ScaleDropsPerLiquidQuantity":{"Active":false,"FloatValue":0.0},"StatModifications":[{"ApplyEachTick":false,"InstantModifier":false,"IsInverse":false,"RateModifier":{"x":0,"y":0},"Stat":{"m_FileID":0,"m_PathID":0},"StatWarpData":"93c4433b9c1640343b87576d355e53b4","StatWarpType":3,"ValueModifier":{"x":1.0,"y":1.0}}],"CompatibleCardsWarpType":3,"CompatibleCardsWarpData":["6dd0a33a2da75b8fad86b46e3e1f1fd0"]},{"ActionName":{"DefaultText":"cook_1","LocalizationKey":"","ParentObjectID":""},"CannotCookText":{"DefaultText":"","LocalizationKey":"","ParentObjectID":""},"CompatibleCards":[],"CompatibleTags":[],"Conditions":{},"ConditionsCard":0,"CookerChanges":{"ChargesChange":{"x":0.0,"y":0.0},"DropOnDestroyList":false,"FuelChange":{"x":0.0,"y":0.0},"LiquidEffectScaling":0,"LiquidQuantityChange":{"x":0.0,"y":0.0},"ModType":0,"ModifyDurability":false,"ModifyLiquid":false,"Special1Change":{"x":0.0,"y":0.0},"Special2Change":{"x":0.0,"y":0.0},"Special3Change":{"x":0.0,"y":0.0},"Special4Change":{"x":0.0,"y":0.0},"SpoilageChange":{"x":0.0,"y":0.0},"TransferCharges":false,"TransferFuel":false,"TransferInventory":false,"TransferLiquid":false,"TransferSpecial1":false,"TransferSpecial2":false,"TransferSpecial3":false,"TransferSpecial4":false,"TransferSpoilage":false,"TransferUsage":false,"TransformInto":{"m_FileID":0,"m_PathID":0},"UsageChange":{"x":0.0,"y":0.0}},"CustomCompleteSound":{"m_FileID":0,"m_PathID":0},"CustomCookingText":{"DefaultText":"{0}\u540e\u5b8c\u6210","LocalizationKey":"","ParentObjectID":""},"CustomNotification":{"DefaultText":"","LocalizationKey":"","ParentObjectID":""},"Drops":[{"DroppedCard":{"m_FileID":0,"m_PathID":0},"DroppedCardWarpData":"f2361311e48fc918cf22377c14c6c884","DroppedCardWarpType":3,"Quantity":{"x":1.0,"y":1.0}}],"DropsAsCollection":[],"Duration":4,"DurationRdmVariation":0,"HideCookingProgress":false,"HideResultNotification":false,"IngredientChanges":{"ChargesChange":{"x":0.0,"y":0.0},"DropOnDestroyList":false,"FuelChange":{"x":0.0,"y":0.0},"LiquidEffectScaling":0,"LiquidQuantityChange":{"x":0.0,"y":0.0},"ModType":0,"ModifyDurability":false,"ModifyLiquid":false,"Special1Change":{"x":0.0,"y":0.0},"Special2Change":{"x":0.0,"y":0.0},"Special3Change":{"x":0.0,"y":0.0},"Special4Change":{"x":0.0,"y":0.0},"SpoilageChange":{"x":0.0,"y":0.0},"TransferCharges":false,"TransferFuel":false,"TransferInventory":false,"TransferLiquid":false,"TransferSpecial1":false,"TransferSpecial2":false,"TransferSpecial3":false,"TransferSpecial4":false,"TransferSpoilage":false,"TransferUsage":false,"TransformInto":{"m_FileID":0,"m_PathID":0},"UsageChange":{"x":0.0,"y":0.0}},"Notification":0,"RandomSingleDrop":false,"ScaleDropsPerLiquidQuantity":{"Active":false,"FloatValue":0.0},"StatModifications":[{"ApplyEachTick":false,"InstantModifier":false,"IsInverse":false,"RateModifier":{"x":0,"y":0},"Stat":{"m_FileID":0,"m_PathID":0},"StatWarpData":"93c4433b9c1640343b87576d355e53b4","StatWarpType":3,"ValueModifier":{"x":1.0,"y":1.0}}],"CompatibleCardsWarpType":3,"CompatibleCardsWarpData":["46884d5a8439cdd54df4ccaff275cf5f"]},{"ActionName":{"DefaultText":"cook_2","LocalizationKey":"","ParentObjectID":""},"CannotCookText":{"DefaultText":"","LocalizationKey":"","ParentObjectID":""},"CompatibleCards":[],"CompatibleTags":[],"Conditions":{},"ConditionsCard":0,"CookerChanges":{"ChargesChange":{"x":0.0,"y":0.0},"DropOnDestroyList":false,"FuelChange":{"x":0.0,"y":0.0},"LiquidEffectScaling":0,"LiquidQuantityChange":{"x":0.0,"y":0.0},"ModType":0,"ModifyDurability":false,"ModifyLiquid":false,"Special1Change":{"x":0.0,"y":0.0},"Special2Change":{"x":0.0,"y":0.0},"Special3Change":{"x":0.0,"y":0.0},"Special4Change":{"x":0.0,"y":0.0},"SpoilageChange":{"x":0.0,"y":0.0},"TransferCharges":false,"TransferFuel":false,"TransferInventory":false,"TransferLiquid":false,"TransferSpecial1":false,"TransferSpecial2":false,"TransferSpecial3":false,"TransferSpecial4":false,"TransferSpoilage":false,"TransferUsage":false,"TransformInto":{"m_FileID":0,"m_PathID":0},"UsageChange":{"x":0.0,"y":0.0}},"CustomCompleteSound":{"m_FileID":0,"m_PathID":0},"CustomCookingText":{"DefaultText":"{0}\u540e\u5b8c\u6210","LocalizationKey":"","ParentObjectID":""},"CustomNotification":{"DefaultText":"","LocalizationKey":"","ParentObjectID":""},"Drops":[{"DroppedCard":{"m_FileID":0,"m_PathID":0},"DroppedCardWarpData":"7e7196bef978bed0da64bb0aabbe6bff","DroppedCardWarpType":3,"Quantity":{"x":1.0,"y":1.0}}],"DropsAsCollection":[],"Duration":2,"DurationRdmVariation":0,"HideCookingProgress":false,"HideResultNotification":false,"IngredientChanges":{"ChargesChange":{"x":0.0,"y":0.0},"DropOnDestroyList":false,"FuelChange":{"x":0.0,"y":0.0},"LiquidEffectScaling":0,"LiquidQuantityChange":{"x":0.0,"y":0.0},"ModType":0,"ModifyDurability":false,"ModifyLiquid":false,"Special1Change":{"x":0.0,"y":0.0},"Special2Change":{"x":0.0,"y":0.0},"Special3Change":{"x":0.0,"y":0.0},"Special4Change":{"x":0.0,"y":0.0},"SpoilageChange":{"x":0.0,"y":0.0},"TransferCharges":false,"TransferFuel":false,"TransferInventory":false,"TransferLiquid":false,"TransferSpecial1":false,"TransferSpecial2":false,"TransferSpecial3":false,"TransferSpecial4":false,"TransferSpoilage":false,"TransferUsage":false,"TransformInto":{"m_FileID":0,"m_PathID":0},"UsageChange":{"x":0.0,"y":0.0}},"Notification":0,"RandomSingleDrop":false,"ScaleDropsPerLiquidQuantity":{"Active":false,"FloatValue":0.0},"StatModifications":[{"ApplyEachTick":false,"InstantModifier":false,"IsInverse":false,"RateModifier":{"x":0,"y":0},"Stat":{"m_FileID":0,"m_PathID":0},"StatWarpData":"93c4433b9c1640343b87576d355e53b4","StatWarpType":3,"ValueModifier":{"x":1.0,"y":1.0}}],"CompatibleCardsWarpType":3,"CompatibleCardsWarpData":["8a3e2f253835407657a9b39db5ac2925"]},{"ActionName":{"DefaultText":"cook_3","LocalizationKey":"","ParentObjectID":""},"CannotCookText":{"DefaultText":"","LocalizationKey":"","ParentObjectID":""},"CompatibleCards":[],"CompatibleTags":[],"Conditions":{},"ConditionsCard":0,"CookerChanges":{"ChargesChange":{"x":0.0,"y":0.0},"DropOnDestroyList":false,"FuelChange":{"x":0.0,"y":0.0},"LiquidEffectScaling":0,"LiquidQuantityChange":{"x":0.0,"y":0.0},"ModType":0,"ModifyDurability":false,"ModifyLiquid":false,"Special1Change":{"x":0.0,"y":0.0},"Special2Change":{"x":0.0,"y":0.0},"Special3Change":{"x":0.0,"y":0.0},"Special4Change":{"x":0.0,"y":0.0},"SpoilageChange":{"x":0.0,"y":0.0},"TransferCharges":false,"TransferFuel":false,"TransferInventory":false,"TransferLiquid":false,"TransferSpecial1":false,"TransferSpecial2":false,"TransferSpecial3":false,"TransferSpecial4":false,"TransferSpoilage":false,"TransferUsage":false,"TransformInto":{"m_FileID":0,"m_PathID":0},"UsageChange":{"x":0.0,"y":0.0}},"CustomCompleteSound":{"m_FileID":0,"m_PathID":0},"CustomCookingText":{"DefaultText":"{0}\u540e\u5b8c\u6210","LocalizationKey":"","ParentObjectID":""},"CustomNotification":{"DefaultText":"","LocalizationKey":"","ParentObjectID":""},"Drops":[{"DroppedCard":{"m_FileID":0,"m_PathID":0},"DroppedCardWarpData":"a3667e16ea7802dfc3aaba340e573b07","DroppedCardWarpType":3,"Quantity":{"x":1.0,"y":1.0}}],"DropsAsCollection":[],"Duration":2,"DurationRdmVariation":0,"HideCookingProgress":false,"HideResultNotification":false,"IngredientChanges":{"ChargesChange":{"x":0.0,"y":0.0},"DropOnDestroyList":false,"FuelChange":{"x":0.0,"y":0.0},"LiquidEffectScaling":0,"LiquidQuantityChange":{"x":0.0,"y":0.0},"ModType":0,"ModifyDurability":false,"ModifyLiquid":false,"Special1Change":{"x":0.0,"y":0.0},"Special2Change":{"x":0.0,"y":0.0},"Special3Change":{"x":0.0,"y":0.0},"Special4Change":{"x":0.0,"y":0.0},"SpoilageChange":{"x":0.0,"y":0.0},"TransferCharges":false,"TransferFuel":false,"TransferInventory":false,"TransferLiquid":false,"TransferSpecial1":false,"TransferSpecial2":false,"TransferSpecial3":false,"TransferSpecial4":false,"TransferSpoilage":false,"TransferUsage":false,"TransformInto":{"m_FileID":0,"m_PathID":0},"UsageChange":{"x":0.0,"y":0.0}},"Notification":0,"RandomSingleDrop":false,"ScaleDropsPerLiquidQuantity":{"Active":false,"FloatValue":0.0},"StatModifications":[{"ApplyEachTick":false,"InstantModifier":false,"IsInverse":false,"RateModifier":{"x":0,"y":0},"Stat":{"m_FileID":0,"m_PathID":0},"StatWarpData":"93c4433b9c1640343b87576d355e53b4","StatWarpType":3,"ValueModifier":{"x":1.0,"y":1.0}}],"CompatibleCardsWarpType":3,"CompatibleCardsWarpData":["6b1eb88ea78c1b270e4450910646a2de"]},{"ActionName":{"DefaultText":"cook_4","LocalizationKey":"","ParentObjectID":""},"CannotCookText":{"DefaultText":"","LocalizationKey":"","ParentObjectID":""},"CompatibleCards":[],"CompatibleTags":[],"Conditions":{},"ConditionsCard":0,"CookerChanges":{"ChargesChange":{"x":0.0,"y":0.0},"DropOnDestroyList":false,"FuelChange":{"x":0.0,"y":0.0},"LiquidEffectScaling":0,"LiquidQuantityChange":{"x":0.0,"y":0.0},"ModType":0,"ModifyDurability":false,"ModifyLiquid":false,"Special1Change":{"x":0.0,"y":0.0},"Special2Change":{"x":0.0,"y":0.0},"Special3Change":{"x":0.0,"y":0.0},"Special4Change":{"x":0.0,"y":0.0},"SpoilageChange":{"x":0.0,"y":0.0},"TransferCharges":false,"TransferFuel":false,"TransferInventory":false,"TransferLiquid":false,"TransferSpecial1":false,"TransferSpecial2":false,"TransferSpecial3":false,"TransferSpecial4":false,"TransferSpoilage":false,"TransferUsage":false,"TransformInto":{"m_FileID":0,"m_PathID":0},"UsageChange":{"x":0.0,"y":0.0}},"CustomCompleteSound":{"m_FileID":0,"m_PathID":0},"CustomCookingText":{"DefaultText":"{0}\u540e\u5b8c\u6210","LocalizationKey":"","ParentObjectID":""},"CustomNotification":{"DefaultText":"","LocalizationKey":"","ParentObjectID":""},"Drops":[{"DroppedCard":{"m_FileID":0,"m_PathID":0},"DroppedCardWarpData":"2819e86f8d1b56a24c401a71d10e0fd4","DroppedCardWarpType":3,"Quantity":{"x":1.0,"y":1.0}}],"DropsAsCollection":[],"Duration":2,"DurationRdmVariation":0,"HideCookingProgress":false,"HideResultNotification":false,"IngredientChanges":{"ChargesChange":{"x":0.0,"y":0.0},"DropOnDestroyList":false,"FuelChange":{"x":0.0,"y":0.0},"LiquidEffectScaling":0,"LiquidQuantityChange":{"x":0.0,"y":0.0},"ModType":0,"ModifyDurability":false,"ModifyLiquid":false,"Special1Change":{"x":0.0,"y":0.0},"Special2Change":{"x":0.0,"y":0.0},"Special3Change":{"x":0.0,"y":0.0},"Special4Change":{"x":0.0,"y":0.0},"SpoilageChange":{"x":0.0,"y":0.0},"TransferCharges":false,"TransferFuel":false,"TransferInventory":false,"TransferLiquid":false,"TransferSpecial1":false,"TransferSpecial2":false,"TransferSpecial3":false,"TransferSpecial4":false,"TransferSpoilage":false,"TransferUsage":false,"TransformInto":{"m_FileID":0,"m_PathID":0},"UsageChange":{"x":0.0,"y":0.0}},"Notification":0,"RandomSingleDrop":false,"ScaleDropsPerLiquidQuantity":{"Active":false,"FloatValue":0.0},"StatModifications":[{"ApplyEachTick":false,"InstantModifier":false,"IsInverse":false,"RateModifier":{"x":0,"y":0},"Stat":{"m_FileID":0,"m_PathID":0},"StatWarpData":"93c4433b9c1640343b87576d355e53b4","StatWarpType":3,"ValueModifier":{"x":1.0,"y":1.0}}],"CompatibleCardsWarpType":3,"CompatibleCardsWarpData":["35f00f8059b965a5801411c831f2fce8"]},{"ActionName":{"DefaultText":"cook_5","LocalizationKey":"","ParentObjectID":""},"CannotCookText":{"DefaultText":"","LocalizationKey":"","ParentObjectID":""},"CompatibleCards":[],"CompatibleTags":[],"Conditions":{},"ConditionsCard":0,"CookerChanges":{"ChargesChange":{"x":0.0,"y":0.0},"DropOnDestroyList":false,"FuelChange":{"x":0.0,"y":0.0},"LiquidEffectScaling":0,"LiquidQuantityChange":{"x":0.0,"y":0.0},"ModType":0,"ModifyDurability":false,"ModifyLiquid":false,"Special1Change":{"x":0.0,"y":0.0},"Special2Change":{"x":0.0,"y":0.0},"Special3Change":{"x":0.0,"y":0.0},"Special4Change":{"x":0.0,"y":0.0},"SpoilageChange":{"x":0.0,"y":0.0},"TransferCharges":false,"TransferFuel":false,"TransferInventory":false,"TransferLiquid":false,"TransferSpecial1":false,"TransferSpecial2":false,"TransferSpecial3":false,"TransferSpecial4":false,"TransferSpoilage":false,"TransferUsage":false,"TransformInto":{"m_FileID":0,"m_PathID":0},"UsageChange":{"x":0.0,"y":0.0}},"CustomCompleteSound":{"m_FileID":0,"m_PathID":0},"CustomCookingText":{"DefaultText":"{0}\u540e\u5b8c\u6210","LocalizationKey":"","ParentObjectID":""},"CustomNotification":{"DefaultText":"","LocalizationKey":"","ParentObjectID":""},"Drops":[{"DroppedCard":{"m_FileID":0,"m_PathID":0},"DroppedCardWarpData":"6a3387277f35feab1f03670b34af3ab1","DroppedCardWarpType":3,"Quantity":{"x":1.0,"y":1.0}}],"DropsAsCollection":[],"Duration":1,"DurationRdmVariation":0,"HideCookingProgress":false,"HideResultNotification":false,"IngredientChanges":{"ChargesChange":{"x":0.0,"y":0.0},"DropOnDestroyList":false,"FuelChange":{"x":0.0,"y":0.0},"LiquidEffectScaling":0,"LiquidQuantityChange":{"x":0.0,"y":0.0},"ModType":0,"ModifyDurability":false,"ModifyLiquid":false,"Special1Change":{"x":0.0,"y":0.0},"Special2Change":{"x":0.0,"y":0.0},"Special3Change":{"x":0.0,"y":0.0},"Special4Change":{"x":0.0,"y":0.0},"SpoilageChange":{"x":0.0,"y":0.0},"TransferCharges":false,"TransferFuel":false,"TransferInventory":false,"TransferLiquid":false,"TransferSpecial1":false,"TransferSpecial2":false,"TransferSpecial3":false,"TransferSpecial4":false,"TransferSpoilage":false,"TransferUsage":false,"TransformInto":{"m_FileID":0,"m_PathID":0},"UsageChange":{"x":0.0,"y":0.0}},"Notification":0,"RandomSingleDrop":false,"ScaleDropsPerLiquidQuantity":{"Active":false,"FloatValue":0.0},"StatModifications":[{"ApplyEachTick":false,"InstantModifier":false,"IsInverse":false,"RateModifier":{"x":0,"y":0},"Stat":{"m_FileID":0,"m_PathID":0},"StatWarpData":"93c4433b9c1640343b87576d355e53b4","StatWarpType":3,"ValueModifier":{"x":0.5,"y":0.5}}],"CompatibleCardsWarpType":3,"CompatibleCardsWarpData":["628f15663f287638186f1a95668e3088"]},{"ActionName":{"DefaultText":"cook_6","LocalizationKey":"","ParentObjectID":""},"CannotCookText":{"DefaultText":"","LocalizationKey":"","ParentObjectID":""},"CompatibleCards":[],"CompatibleTags":[],"Conditions":{},"ConditionsCard":0,"CookerChanges":{"ChargesChange":{"x":0.0,"y":0.0},"DropOnDestroyList":false,"FuelChange":{"x":0.0,"y":0.0},"LiquidEffectScaling":0,"LiquidQuantityChange":{"x":0.0,"y":0.0},"ModType":0,"ModifyDurability":false,"ModifyLiquid":false,"Special1Change":{"x":0.0,"y":0.0},"Special2Change":{"x":0.0,"y":0.0},"Special3Change":{"x":0.0,"y":0.0},"Special4Change":{"x":0.0,"y":0.0},"SpoilageChange":{"x":0.0,"y":0.0},"TransferCharges":false,"TransferFuel":false,"TransferInventory":false,"TransferLiquid":false,"TransferSpecial1":false,"TransferSpecial2":false,"TransferSpecial3":false,"TransferSpecial4":false,"TransferSpoilage":false,"TransferUsage":false,"TransformInto":{"m_FileID":0,"m_PathID":0},"UsageChange":{"x":0.0,"y":0.0}},"CustomCompleteSound":{"m_FileID":0,"m_PathID":0},"CustomCookingText":{"DefaultText":"{0}\u540e\u5b8c\u6210","LocalizationKey":"","ParentObjectID":""},"CustomNotification":{"DefaultText":"","LocalizationKey":"","ParentObjectID":""},"Drops":[{"DroppedCard":{"m_FileID":0,"m_PathID":0},"DroppedCardWarpData":"7f317c41e10b068ef3f13661f1930b21","DroppedCardWarpType":3,"Quantity":{"x":1.0,"y":1.0}}],"DropsAsCollection":[],"Duration":2,"DurationRdmVariation":0,"HideCookingProgress":false,"HideResultNotification":false,"IngredientChanges":{"ChargesChange":{"x":0.0,"y":0.0},"DropOnDestroyList":false,"FuelChange":{"x":0.0,"y":0.0},"LiquidEffectScaling":0,"LiquidQuantityChange":{"x":0.0,"y":0.0},"ModType":0,"ModifyDurability":false,"ModifyLiquid":false,"Special1Change":{"x":0.0,"y":0.0},"Special2Change":{"x":0.0,"y":0.0},"Special3Change":{"x":0.0,"y":0.0},"Special4Change":{"x":0.0,"y":0.0},"SpoilageChange":{"x":0.0,"y":0.0},"TransferCharges":false,"TransferFuel":false,"TransferInventory":false,"TransferLiquid":false,"TransferSpecial1":false,"TransferSpecial2":false,"TransferSpecial3":false,"TransferSpecial4":false,"TransferSpoilage":false,"TransferUsage":false,"TransformInto":{"m_FileID":0,"m_PathID":0},"UsageChange":{"x":0.0,"y":0.0}},"Notification":0,"RandomSingleDrop":false,"ScaleDropsPerLiquidQuantity":{"Active":false,"FloatValue":0.0},"StatModifications":[{"ApplyEachTick":false,"InstantModifier":false,"IsInverse":false,"RateModifier":{"x":0,"y":0},"Stat":{"m_FileID":0,"m_PathID":0},"StatWarpData":"93c4433b9c1640343b87576d355e53b4","StatWarpType":3,"ValueModifier":{"x":1.0,"y":1.0}}],"CompatibleCardsWarpType":3,"CompatibleCardsWarpData":["5514a69bef527b39f23dafffa244604d"]},{"ActionName":{"DefaultText":"cook_7","LocalizationKey":"","ParentObjectID":""},"CannotCookText":{"DefaultText":"","LocalizationKey":"","ParentObjectID":""},"CompatibleCards":[],"CompatibleTags":[],"Conditions":{},"ConditionsCard":0,"CookerChanges":{"ChargesChange":{"x":0.0,"y":0.0},"DropOnDestroyList":false,"FuelChange":{"x":0.0,"y":0.0},"LiquidEffectScaling":0,"LiquidQuantityChange":{"x":0.0,"y":0.0},"ModType":0,"ModifyDurability":false,"ModifyLiquid":false,"Special1Change":{"x":0.0,"y":0.0},"Special2Change":{"x":0.0,"y":0.0},"Special3Change":{"x":0.0,"y":0.0},"Special4Change":{"x":0.0,"y":0.0},"SpoilageChange":{"x":0.0,"y":0.0},"TransferCharges":false,"TransferFuel":false,"TransferInventory":false,"TransferLiquid":false,"TransferSpecial1":false,"TransferSpecial2":false,"TransferSpecial3":false,"TransferSpecial4":false,"TransferSpoilage":false,"TransferUsage":false,"TransformInto":{"m_FileID":0,"m_PathID":0},"UsageChange":{"x":0.0,"y":0.0}},"CustomCompleteSound":{"m_FileID":0,"m_PathID":0},"CustomCookingText":{"DefaultText":"{0}\u540e\u5b8c\u6210","LocalizationKey":"","ParentObjectID":""},"CustomNotification":{"DefaultText":"","LocalizationKey":"","ParentObjectID":""},"Drops":[{"DroppedCard":{"m_FileID":0,"m_PathID":0},"DroppedCardWarpData":"c77f1a59c5705b042ec86f8ec9b6b25c","DroppedCardWarpType":3,"Quantity":{"x":1.0,"y":1.0}}],"DropsAsCollection":[],"Duration":4,"DurationRdmVariation":0,"HideCookingProgress":false,"HideResultNotification":false,"IngredientChanges":{"ChargesChange":{"x":0.0,"y":0.0},"DropOnDestroyList":false,"FuelChange":{"x":0.0,"y":0.0},"LiquidEffectScaling":0,"LiquidQuantityChange":{"x":0.0,"y":0.0},"ModType":0,"ModifyDurability":false,"ModifyLiquid":false,"Special1Change":{"x":0.0,"y":0.0},"Special2Change":{"x":0.0,"y":0.0},"Special3Change":{"x":0.0,"y":0.0},"Special4Change":{"x":0.0,"y":0.0},"SpoilageChange":{"x":0.0,"y":0.0},"TransferCharges":false,"TransferFuel":false,"TransferInventory":false,"TransferLiquid":false,"TransferSpecial1":false,"TransferSpecial2":false,"TransferSpecial3":false,"TransferSpecial4":false,"TransferSpoilage":false,"TransferUsage":false,"TransformInto":{"m_FileID":0,"m_PathID":0},"UsageChange":{"x":0.0,"y":0.0}},"Notification":0,"RandomSingleDrop":false,"ScaleDropsPerLiquidQuantity":{"Active":false,"FloatValue":0.0},"StatModifications":[{"ApplyEachTick":false,"InstantModifier":false,"IsInverse":false,"RateModifier":{"x":0,"y":0},"Stat":{"m_FileID":0,"m_PathID":0},"StatWarpData":"93c4433b9c1640343b87576d355e53b4","StatWarpType":3,"ValueModifier":{"x":0.5,"y":0.5}}],"CompatibleCardsWarpType":3,"CompatibleCardsWarpData":["be537206457b895f6e3c4b292ae42f6b"]},{"ActionName":{"DefaultText":"cook_8","LocalizationKey":"","ParentObjectID":""},"CannotCookText":{"DefaultText":"","LocalizationKey":"","ParentObjectID":""},"CompatibleCards":[],"CompatibleTags":[],"Conditions":{},"ConditionsCard":0,"CookerChanges":{"ChargesChange":{"x":0.0,"y":0.0},"DropOnDestroyList":false,"FuelChange":{"x":0.0,"y":0.0},"LiquidEffectScaling":0,"LiquidQuantityChange":{"x":0.0,"y":0.0},"ModType":0,"ModifyDurability":false,"ModifyLiquid":false,"Special1Change":{"x":0.0,"y":0.0},"Special2Change":{"x":0.0,"y":0.0},"Special3Change":{"x":0.0,"y":0.0},"Special4Change":{"x":0.0,"y":0.0},"SpoilageChange":{"x":0.0,"y":0.0},"TransferCharges":false,"TransferFuel":false,"TransferInventory":false,"TransferLiquid":false,"TransferSpecial1":false,"TransferSpecial2":false,"TransferSpecial3":false,"TransferSpecial4":false,"TransferSpoilage":false,"TransferUsage":false,"TransformInto":{"m_FileID":0,"m_PathID":0},"UsageChange":{"x":0.0,"y":0.0}},"CustomCompleteSound":{"m_FileID":0,"m_PathID":0},"CustomCookingText":{"DefaultText":"{0}\u540e\u5b8c\u6210","LocalizationKey":"","ParentObjectID":""},"CustomNotification":{"DefaultText":"","LocalizationKey":"","ParentObjectID":""},"Drops":[{"DroppedCard":{"m_FileID":0,"m_PathID":0},"DroppedCardWarpData":"f6f66e8a9385a2a97a979f3baa52a679","DroppedCardWarpType":3,"Quantity":{"x":1.0,"y":1.0}}],"DropsAsCollection":[],"Duration":2,"DurationRdmVariation":0,"HideCookingProgress":false,"HideResultNotification":false,"IngredientChanges":{"ChargesChange":{"x":0.0,"y":0.0},"DropOnDestroyList":false,"FuelChange":{"x":0.0,"y":0.0},"LiquidEffectScaling":0,"LiquidQuantityChange":{"x":0.0,"y":0.0},"ModType":0,"ModifyDurability":false,"ModifyLiquid":false,"Special1Change":{"x":0.0,"y":0.0},"Special2Change":{"x":0.0,"y":0.0},"Special3Change":{"x":0.0,"y":0.0},"Special4Change":{"x":0.0,"y":0.0},"SpoilageChange":{"x":0.0,"y":0.0},"TransferCharges":false,"TransferFuel":false,"TransferInventory":false,"TransferLiquid":false,"TransferSpecial1":false,"TransferSpecial2":false,"TransferSpecial3":false,"TransferSpecial4":false,"TransferSpoilage":false,"TransferUsage":false,"TransformInto":{"m_FileID":0,"m_PathID":0},"UsageChange":{"x":0.0,"y":0.0}},"Notification":0,"RandomSingleDrop":false,"ScaleDropsPerLiquidQuantity":{"Active":false,"FloatValue":0.0},"StatModifications":[{"ApplyEachTick":false,"InstantModifier":false,"IsInverse":false,"RateModifier":{"x":0,"y":0},"Stat":{"m_FileID":0,"m_PathID":0},"StatWarpData":"93c4433b9c1640343b87576d355e53b4","StatWarpType":3,"ValueModifier":{"x":0.5,"y":0.5}}],"CompatibleCardsWarpType":3,"CompatibleCardsWarpData":["2c25d8c4b4fc2d2930429ba9b5960cad"]},{"ActionName":{"DefaultText":"cook_9","LocalizationKey":"","ParentObjectID":""},"CannotCookText":{"DefaultText":"","LocalizationKey":"","ParentObjectID":""},"CompatibleCards":[],"CompatibleTags":[],"Conditions":{},"ConditionsCard":0,"CookerChanges":{"ChargesChange":{"x":0.0,"y":0.0},"DropOnDestroyList":false,"FuelChange":{"x":0.0,"y":0.0},"LiquidEffectScaling":0,"LiquidQuantityChange":{"x":0.0,"y":0.0},"ModType":0,"ModifyDurability":false,"ModifyLiquid":false,"Special1Change":{"x":0.0,"y":0.0},"Special2Change":{"x":0.0,"y":0.0},"Special3Change":{"x":0.0,"y":0.0},"Special4Change":{"x":0.0,"y":0.0},"SpoilageChange":{"x":0.0,"y":0.0},"TransferCharges":false,"TransferFuel":false,"TransferInventory":false,"TransferLiquid":false,"TransferSpecial1":false,"TransferSpecial2":false,"TransferSpecial3":false,"TransferSpecial4":false,"TransferSpoilage":false,"TransferUsage":false,"TransformInto":{"m_FileID":0,"m_PathID":0},"UsageChange":{"x":0.0,"y":0.0}},"CustomCompleteSound":{"m_FileID":0,"m_PathID":0},"CustomCookingText":{"DefaultText":"{0}\u540e\u5b8c\u6210","LocalizationKey":"","ParentObjectID":""},"CustomNotification":{"DefaultText":"","LocalizationKey":"","ParentObjectID":""},"Drops":[{"DroppedCard":{"m_FileID":0,"m_PathID":0},"DroppedCardWarpData":"745e0c1e63005e184bae913ee25151ad","DroppedCardWarpType":3,"Quantity":{"x":1.0,"y":1.0}}],"DropsAsCollection":[],"Duration":1,"DurationRdmVariation":0,"HideCookingProgress":false,"HideResultNotification":false,"IngredientChanges":{"ChargesChange":{"x":0.0,"y":0.0},"DropOnDestroyList":false,"FuelChange":{"x":0.0,"y":0.0},"LiquidEffectScaling":0,"LiquidQuantityChange":{"x":0.0,"y":0.0},"ModType":0,"ModifyDurability":false,"ModifyLiquid":false,"Special1Change":{"x":0.0,"y":0.0},"Special2Change":{"x":0.0,"y":0.0},"Special3Change":{"x":0.0,"y":0.0},"Special4Change":{"x":0.0,"y":0.0},"SpoilageChange":{"x":0.0,"y":0.0},"TransferCharges":false,"TransferFuel":false,"TransferInventory":false,"TransferLiquid":false,"TransferSpecial1":false,"TransferSpecial2":false,"TransferSpecial3":false,"TransferSpecial4":false,"TransferSpoilage":false,"TransferUsage":false,"TransformInto":{"m_FileID":0,"m_PathID":0},"UsageChange":{"x":0.0,"y":0.0}},"Notification":0,"RandomSingleDrop":false,"ScaleDropsPerLiquidQuantity":{"Active":false,"FloatValue":0.0},"StatModifications":[{"ApplyEachTick":false,"InstantModifier":false,"IsInverse":false,"RateModifier":{"x":0,"y":0},"Stat":{"m_FileID":0,"m_PathID":0},"StatWarpData":"93c4433b9c1640343b87576d355e53b4","StatWarpType":3,"ValueModifier":{"x":0.5,"y":0.5}}],"CompatibleCardsWarpType":3,"CompatibleCardsWarpData":["31ef7a8cfc1b36bbebc18b9dd05ffd53"]},{"ActionName":{"DefaultText":"\u70e7\u7126\u7269","LocalizationKey":"","ParentObjectID":""},"CannotCookText":{"DefaultText":"","LocalizationKey":"","ParentObjectID":""},"CompatibleCards":[],"CompatibleTags":[],"Conditions":{},"ConditionsCard":0,"CookerChanges":{"ChargesChange":{"x":0.0,"y":0.0},"DropOnDestroyList":false,"FuelChange":{"x":0.0,"y":0.0},"LiquidEffectScaling":0,"LiquidQuantityChange":{"x":0.0,"y":0.0},"ModType":0,"ModifyDurability":false,"ModifyLiquid":false,"Special1Change":{"x":0.0,"y":0.0},"Special2Change":{"x":0.0,"y":0.0},"Special3Change":{"x":0.0,"y":0.0},"Special4Change":{"x":0.0,"y":0.0},"SpoilageChange":{"x":0.0,"y":0.0},"TransferCharges":false,"TransferFuel":false,"TransferInventory":false,"TransferLiquid":false,"TransferSpecial1":false,"TransferSpecial2":false,"TransferSpecial3":false,"TransferSpecial4":false,"TransferSpoilage":false,"TransferUsage":false,"TransformInto":{"m_FileID":0,"m_PathID":0},"UsageChange":{"x":0.0,"y":0.0}},"CustomCompleteSound":{"m_FileID":0,"m_PathID":0},"CustomCookingText":{"DefaultText":"{0}\u540e\u70e7\u7126","LocalizationKey":"","ParentObjectID":""},"CustomNotification":{"DefaultText":"{0}\u70e7\u7126\u4e86\u2026\u2026","LocalizationKey":"","ParentObjectID":""},"Drops":[{"DroppedCard":{"m_FileID":0,"m_PathID":0},"DroppedCardWarpData":"274b94170226fcd479d2e73891000c9a","DroppedCardWarpType":3,"Quantity":{"x":1.0,"y":1.0}}],"DropsAsCollection":[],"Duration":2,"DurationRdmVariation":0,"HideCookingProgress":false,"HideResultNotification":false,"IngredientChanges":{"ChargesChange":{"x":0.0,"y":0.0},"DropOnDestroyList":false,"FuelChange":{"x":0.0,"y":0.0},"LiquidEffectScaling":0,"LiquidQuantityChange":{"x":0.0,"y":0.0},"ModType":0,"ModifyDurability":false,"ModifyLiquid":false,"Special1Change":{"x":0.0,"y":0.0},"Special2Change":{"x":0.0,"y":0.0},"Special3Change":{"x":0.0,"y":0.0},"Special4Change":{"x":0.0,"y":0.0},"SpoilageChange":{"x":0.0,"y":0.0},"TransferCharges":false,"TransferFuel":false,"TransferInventory":false,"TransferLiquid":false,"TransferSpecial1":false,"TransferSpecial2":false,"TransferSpecial3":false,"TransferSpecial4":false,"TransferSpoilage":false,"TransferUsage":false,"TransformInto":{"m_FileID":0,"m_PathID":0},"UsageChange":{"x":0.0,"y":0.0}},"Notification":0,"RandomSingleDrop":false,"ScaleDropsPerLiquidQuantity":{"Active":false,"FloatValue":0.0},"StatModifications":[],"CompatibleCardsWarpType":3,"CompatibleCardsWarpData":["745e0c1e63005e184bae913ee25151ad","f6f66e8a9385a2a97a979f3baa52a679"]}],"CookingRecipesWarpType":4}
+{
+  "CardInteractionsWarpData": [],
+  "CardInteractionsWarpType": 4,
+  "CookingRecipesWarpData": [
+    {
+      "ActionName": {
+        "DefaultText": "cook_0",
+        "LocalizationKey": "",
+        "ParentObjectID": ""
+      },
+      "CannotCookText": {
+        "DefaultText": "",
+        "LocalizationKey": "",
+        "ParentObjectID": ""
+      },
+      "CompatibleCards": [],
+      "CompatibleTags": [],
+      "Conditions": {},
+      "ConditionsCard": 0,
+      "CookerChanges": {
+        "ChargesChange": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "DropOnDestroyList": false,
+        "FuelChange": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "LiquidEffectScaling": 0,
+        "LiquidQuantityChange": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "ModType": 0,
+        "ModifyDurability": false,
+        "ModifyLiquid": false,
+        "Special1Change": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "Special2Change": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "Special3Change": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "Special4Change": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "SpoilageChange": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "TransferCharges": false,
+        "TransferFuel": false,
+        "TransferInventory": false,
+        "TransferLiquid": false,
+        "TransferSpecial1": false,
+        "TransferSpecial2": false,
+        "TransferSpecial3": false,
+        "TransferSpecial4": false,
+        "TransferSpoilage": false,
+        "TransferUsage": false,
+        "TransformInto": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "UsageChange": {
+          "x": 0.0,
+          "y": 0.0
+        }
+      },
+      "CustomCompleteSound": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "CustomCookingText": {
+        "DefaultText": "{0}\u540E\u5B8C\u6210",
+        "LocalizationKey": "",
+        "ParentObjectID": ""
+      },
+      "CustomNotification": {
+        "DefaultText": "",
+        "LocalizationKey": "",
+        "ParentObjectID": ""
+      },
+      "Drops": [
+        {
+          "DroppedCard": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "DroppedCardWarpData": "5530a9b433864a9ad4334d7956efdaaf",
+          "DroppedCardWarpType": 3,
+          "Quantity": {
+            "x": 1.0,
+            "y": 1.0
+          }
+        }
+      ],
+      "DropsAsCollection": [],
+      "Duration": 2,
+      "DurationRdmVariation": 0,
+      "HideCookingProgress": false,
+      "HideResultNotification": false,
+      "IngredientChanges": {
+        "ChargesChange": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "DropOnDestroyList": false,
+        "FuelChange": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "LiquidEffectScaling": 0,
+        "LiquidQuantityChange": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "ModType": 0,
+        "ModifyDurability": false,
+        "ModifyLiquid": false,
+        "Special1Change": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "Special2Change": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "Special3Change": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "Special4Change": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "SpoilageChange": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "TransferCharges": false,
+        "TransferFuel": false,
+        "TransferInventory": false,
+        "TransferLiquid": false,
+        "TransferSpecial1": false,
+        "TransferSpecial2": false,
+        "TransferSpecial3": false,
+        "TransferSpecial4": false,
+        "TransferSpoilage": false,
+        "TransferUsage": false,
+        "TransformInto": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "UsageChange": {
+          "x": 0.0,
+          "y": 0.0
+        }
+      },
+      "Notification": 0,
+      "RandomSingleDrop": false,
+      "ScaleDropsPerLiquidQuantity": {
+        "Active": false,
+        "FloatValue": 0.0
+      },
+      "StatModifications": [
+        {
+          "ApplyEachTick": false,
+          "InstantModifier": false,
+          "IsInverse": false,
+          "RateModifier": {
+            "x": 0,
+            "y": 0
+          },
+          "Stat": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "StatWarpData": "93c4433b9c1640343b87576d355e53b4",
+          "StatWarpType": 3,
+          "ValueModifier": {
+            "x": 1.0,
+            "y": 1.0
+          }
+        }
+      ],
+      "CompatibleCardsWarpType": 3,
+      "CompatibleCardsWarpData": [
+        "6dd0a33a2da75b8fad86b46e3e1f1fd0"
+      ]
+    },
+    {
+      "ActionName": {
+        "DefaultText": "cook_1",
+        "LocalizationKey": "",
+        "ParentObjectID": ""
+      },
+      "CannotCookText": {
+        "DefaultText": "",
+        "LocalizationKey": "",
+        "ParentObjectID": ""
+      },
+      "CompatibleCards": [],
+      "CompatibleTags": [],
+      "Conditions": {},
+      "ConditionsCard": 0,
+      "CookerChanges": {
+        "ChargesChange": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "DropOnDestroyList": false,
+        "FuelChange": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "LiquidEffectScaling": 0,
+        "LiquidQuantityChange": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "ModType": 0,
+        "ModifyDurability": false,
+        "ModifyLiquid": false,
+        "Special1Change": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "Special2Change": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "Special3Change": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "Special4Change": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "SpoilageChange": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "TransferCharges": false,
+        "TransferFuel": false,
+        "TransferInventory": false,
+        "TransferLiquid": false,
+        "TransferSpecial1": false,
+        "TransferSpecial2": false,
+        "TransferSpecial3": false,
+        "TransferSpecial4": false,
+        "TransferSpoilage": false,
+        "TransferUsage": false,
+        "TransformInto": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "UsageChange": {
+          "x": 0.0,
+          "y": 0.0
+        }
+      },
+      "CustomCompleteSound": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "CustomCookingText": {
+        "DefaultText": "{0}\u540E\u5B8C\u6210",
+        "LocalizationKey": "",
+        "ParentObjectID": ""
+      },
+      "CustomNotification": {
+        "DefaultText": "",
+        "LocalizationKey": "",
+        "ParentObjectID": ""
+      },
+      "Drops": [
+        {
+          "DroppedCard": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "DroppedCardWarpData": "f2361311e48fc918cf22377c14c6c884",
+          "DroppedCardWarpType": 3,
+          "Quantity": {
+            "x": 1.0,
+            "y": 1.0
+          }
+        }
+      ],
+      "DropsAsCollection": [],
+      "Duration": 4,
+      "DurationRdmVariation": 0,
+      "HideCookingProgress": false,
+      "HideResultNotification": false,
+      "IngredientChanges": {
+        "ChargesChange": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "DropOnDestroyList": false,
+        "FuelChange": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "LiquidEffectScaling": 0,
+        "LiquidQuantityChange": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "ModType": 0,
+        "ModifyDurability": false,
+        "ModifyLiquid": false,
+        "Special1Change": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "Special2Change": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "Special3Change": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "Special4Change": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "SpoilageChange": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "TransferCharges": false,
+        "TransferFuel": false,
+        "TransferInventory": false,
+        "TransferLiquid": false,
+        "TransferSpecial1": false,
+        "TransferSpecial2": false,
+        "TransferSpecial3": false,
+        "TransferSpecial4": false,
+        "TransferSpoilage": false,
+        "TransferUsage": false,
+        "TransformInto": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "UsageChange": {
+          "x": 0.0,
+          "y": 0.0
+        }
+      },
+      "Notification": 0,
+      "RandomSingleDrop": false,
+      "ScaleDropsPerLiquidQuantity": {
+        "Active": false,
+        "FloatValue": 0.0
+      },
+      "StatModifications": [
+        {
+          "ApplyEachTick": false,
+          "InstantModifier": false,
+          "IsInverse": false,
+          "RateModifier": {
+            "x": 0,
+            "y": 0
+          },
+          "Stat": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "StatWarpData": "93c4433b9c1640343b87576d355e53b4",
+          "StatWarpType": 3,
+          "ValueModifier": {
+            "x": 1.0,
+            "y": 1.0
+          }
+        }
+      ],
+      "CompatibleCardsWarpType": 3,
+      "CompatibleCardsWarpData": [
+        "46884d5a8439cdd54df4ccaff275cf5f"
+      ]
+    },
+    {
+      "ActionName": {
+        "DefaultText": "cook_2",
+        "LocalizationKey": "",
+        "ParentObjectID": ""
+      },
+      "CannotCookText": {
+        "DefaultText": "",
+        "LocalizationKey": "",
+        "ParentObjectID": ""
+      },
+      "CompatibleCards": [],
+      "CompatibleTags": [],
+      "Conditions": {},
+      "ConditionsCard": 0,
+      "CookerChanges": {
+        "ChargesChange": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "DropOnDestroyList": false,
+        "FuelChange": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "LiquidEffectScaling": 0,
+        "LiquidQuantityChange": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "ModType": 0,
+        "ModifyDurability": false,
+        "ModifyLiquid": false,
+        "Special1Change": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "Special2Change": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "Special3Change": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "Special4Change": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "SpoilageChange": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "TransferCharges": false,
+        "TransferFuel": false,
+        "TransferInventory": false,
+        "TransferLiquid": false,
+        "TransferSpecial1": false,
+        "TransferSpecial2": false,
+        "TransferSpecial3": false,
+        "TransferSpecial4": false,
+        "TransferSpoilage": false,
+        "TransferUsage": false,
+        "TransformInto": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "UsageChange": {
+          "x": 0.0,
+          "y": 0.0
+        }
+      },
+      "CustomCompleteSound": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "CustomCookingText": {
+        "DefaultText": "{0}\u540E\u5B8C\u6210",
+        "LocalizationKey": "",
+        "ParentObjectID": ""
+      },
+      "CustomNotification": {
+        "DefaultText": "",
+        "LocalizationKey": "",
+        "ParentObjectID": ""
+      },
+      "Drops": [
+        {
+          "DroppedCard": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "DroppedCardWarpData": "7e7196bef978bed0da64bb0aabbe6bff",
+          "DroppedCardWarpType": 3,
+          "Quantity": {
+            "x": 1.0,
+            "y": 1.0
+          }
+        }
+      ],
+      "DropsAsCollection": [],
+      "Duration": 2,
+      "DurationRdmVariation": 0,
+      "HideCookingProgress": false,
+      "HideResultNotification": false,
+      "IngredientChanges": {
+        "ChargesChange": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "DropOnDestroyList": false,
+        "FuelChange": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "LiquidEffectScaling": 0,
+        "LiquidQuantityChange": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "ModType": 0,
+        "ModifyDurability": false,
+        "ModifyLiquid": false,
+        "Special1Change": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "Special2Change": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "Special3Change": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "Special4Change": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "SpoilageChange": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "TransferCharges": false,
+        "TransferFuel": false,
+        "TransferInventory": false,
+        "TransferLiquid": false,
+        "TransferSpecial1": false,
+        "TransferSpecial2": false,
+        "TransferSpecial3": false,
+        "TransferSpecial4": false,
+        "TransferSpoilage": false,
+        "TransferUsage": false,
+        "TransformInto": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "UsageChange": {
+          "x": 0.0,
+          "y": 0.0
+        }
+      },
+      "Notification": 0,
+      "RandomSingleDrop": false,
+      "ScaleDropsPerLiquidQuantity": {
+        "Active": false,
+        "FloatValue": 0.0
+      },
+      "StatModifications": [
+        {
+          "ApplyEachTick": false,
+          "InstantModifier": false,
+          "IsInverse": false,
+          "RateModifier": {
+            "x": 0,
+            "y": 0
+          },
+          "Stat": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "StatWarpData": "93c4433b9c1640343b87576d355e53b4",
+          "StatWarpType": 3,
+          "ValueModifier": {
+            "x": 1.0,
+            "y": 1.0
+          }
+        }
+      ],
+      "CompatibleCardsWarpType": 3,
+      "CompatibleCardsWarpData": [
+        "8a3e2f253835407657a9b39db5ac2925"
+      ]
+    },
+    {
+      "ActionName": {
+        "DefaultText": "cook_3",
+        "LocalizationKey": "",
+        "ParentObjectID": ""
+      },
+      "CannotCookText": {
+        "DefaultText": "",
+        "LocalizationKey": "",
+        "ParentObjectID": ""
+      },
+      "CompatibleCards": [],
+      "CompatibleTags": [],
+      "Conditions": {},
+      "ConditionsCard": 0,
+      "CookerChanges": {
+        "ChargesChange": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "DropOnDestroyList": false,
+        "FuelChange": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "LiquidEffectScaling": 0,
+        "LiquidQuantityChange": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "ModType": 0,
+        "ModifyDurability": false,
+        "ModifyLiquid": false,
+        "Special1Change": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "Special2Change": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "Special3Change": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "Special4Change": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "SpoilageChange": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "TransferCharges": false,
+        "TransferFuel": false,
+        "TransferInventory": false,
+        "TransferLiquid": false,
+        "TransferSpecial1": false,
+        "TransferSpecial2": false,
+        "TransferSpecial3": false,
+        "TransferSpecial4": false,
+        "TransferSpoilage": false,
+        "TransferUsage": false,
+        "TransformInto": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "UsageChange": {
+          "x": 0.0,
+          "y": 0.0
+        }
+      },
+      "CustomCompleteSound": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "CustomCookingText": {
+        "DefaultText": "{0}\u540E\u5B8C\u6210",
+        "LocalizationKey": "",
+        "ParentObjectID": ""
+      },
+      "CustomNotification": {
+        "DefaultText": "",
+        "LocalizationKey": "",
+        "ParentObjectID": ""
+      },
+      "Drops": [
+        {
+          "DroppedCard": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "DroppedCardWarpData": "a3667e16ea7802dfc3aaba340e573b07",
+          "DroppedCardWarpType": 3,
+          "Quantity": {
+            "x": 1.0,
+            "y": 1.0
+          }
+        }
+      ],
+      "DropsAsCollection": [],
+      "Duration": 2,
+      "DurationRdmVariation": 0,
+      "HideCookingProgress": false,
+      "HideResultNotification": false,
+      "IngredientChanges": {
+        "ChargesChange": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "DropOnDestroyList": false,
+        "FuelChange": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "LiquidEffectScaling": 0,
+        "LiquidQuantityChange": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "ModType": 0,
+        "ModifyDurability": false,
+        "ModifyLiquid": false,
+        "Special1Change": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "Special2Change": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "Special3Change": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "Special4Change": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "SpoilageChange": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "TransferCharges": false,
+        "TransferFuel": false,
+        "TransferInventory": false,
+        "TransferLiquid": false,
+        "TransferSpecial1": false,
+        "TransferSpecial2": false,
+        "TransferSpecial3": false,
+        "TransferSpecial4": false,
+        "TransferSpoilage": false,
+        "TransferUsage": false,
+        "TransformInto": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "UsageChange": {
+          "x": 0.0,
+          "y": 0.0
+        }
+      },
+      "Notification": 0,
+      "RandomSingleDrop": false,
+      "ScaleDropsPerLiquidQuantity": {
+        "Active": false,
+        "FloatValue": 0.0
+      },
+      "StatModifications": [
+        {
+          "ApplyEachTick": false,
+          "InstantModifier": false,
+          "IsInverse": false,
+          "RateModifier": {
+            "x": 0,
+            "y": 0
+          },
+          "Stat": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "StatWarpData": "93c4433b9c1640343b87576d355e53b4",
+          "StatWarpType": 3,
+          "ValueModifier": {
+            "x": 1.0,
+            "y": 1.0
+          }
+        }
+      ],
+      "CompatibleCardsWarpType": 3,
+      "CompatibleCardsWarpData": [
+        "6b1eb88ea78c1b270e4450910646a2de"
+      ]
+    },
+    {
+      "ActionName": {
+        "DefaultText": "cook_4",
+        "LocalizationKey": "",
+        "ParentObjectID": ""
+      },
+      "CannotCookText": {
+        "DefaultText": "",
+        "LocalizationKey": "",
+        "ParentObjectID": ""
+      },
+      "CompatibleCards": [],
+      "CompatibleTags": [],
+      "Conditions": {},
+      "ConditionsCard": 0,
+      "CookerChanges": {
+        "ChargesChange": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "DropOnDestroyList": false,
+        "FuelChange": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "LiquidEffectScaling": 0,
+        "LiquidQuantityChange": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "ModType": 0,
+        "ModifyDurability": false,
+        "ModifyLiquid": false,
+        "Special1Change": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "Special2Change": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "Special3Change": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "Special4Change": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "SpoilageChange": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "TransferCharges": false,
+        "TransferFuel": false,
+        "TransferInventory": false,
+        "TransferLiquid": false,
+        "TransferSpecial1": false,
+        "TransferSpecial2": false,
+        "TransferSpecial3": false,
+        "TransferSpecial4": false,
+        "TransferSpoilage": false,
+        "TransferUsage": false,
+        "TransformInto": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "UsageChange": {
+          "x": 0.0,
+          "y": 0.0
+        }
+      },
+      "CustomCompleteSound": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "CustomCookingText": {
+        "DefaultText": "{0}\u540E\u5B8C\u6210",
+        "LocalizationKey": "",
+        "ParentObjectID": ""
+      },
+      "CustomNotification": {
+        "DefaultText": "",
+        "LocalizationKey": "",
+        "ParentObjectID": ""
+      },
+      "Drops": [
+        {
+          "DroppedCard": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "DroppedCardWarpData": "2819e86f8d1b56a24c401a71d10e0fd4",
+          "DroppedCardWarpType": 3,
+          "Quantity": {
+            "x": 1.0,
+            "y": 1.0
+          }
+        }
+      ],
+      "DropsAsCollection": [],
+      "Duration": 2,
+      "DurationRdmVariation": 0,
+      "HideCookingProgress": false,
+      "HideResultNotification": false,
+      "IngredientChanges": {
+        "ChargesChange": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "DropOnDestroyList": false,
+        "FuelChange": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "LiquidEffectScaling": 0,
+        "LiquidQuantityChange": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "ModType": 0,
+        "ModifyDurability": false,
+        "ModifyLiquid": false,
+        "Special1Change": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "Special2Change": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "Special3Change": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "Special4Change": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "SpoilageChange": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "TransferCharges": false,
+        "TransferFuel": false,
+        "TransferInventory": false,
+        "TransferLiquid": false,
+        "TransferSpecial1": false,
+        "TransferSpecial2": false,
+        "TransferSpecial3": false,
+        "TransferSpecial4": false,
+        "TransferSpoilage": false,
+        "TransferUsage": false,
+        "TransformInto": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "UsageChange": {
+          "x": 0.0,
+          "y": 0.0
+        }
+      },
+      "Notification": 0,
+      "RandomSingleDrop": false,
+      "ScaleDropsPerLiquidQuantity": {
+        "Active": false,
+        "FloatValue": 0.0
+      },
+      "StatModifications": [
+        {
+          "ApplyEachTick": false,
+          "InstantModifier": false,
+          "IsInverse": false,
+          "RateModifier": {
+            "x": 0,
+            "y": 0
+          },
+          "Stat": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "StatWarpData": "93c4433b9c1640343b87576d355e53b4",
+          "StatWarpType": 3,
+          "ValueModifier": {
+            "x": 1.0,
+            "y": 1.0
+          }
+        }
+      ],
+      "CompatibleCardsWarpType": 3,
+      "CompatibleCardsWarpData": [
+        "35f00f8059b965a5801411c831f2fce8"
+      ]
+    },
+    {
+      "ActionName": {
+        "DefaultText": "cook_5",
+        "LocalizationKey": "",
+        "ParentObjectID": ""
+      },
+      "CannotCookText": {
+        "DefaultText": "",
+        "LocalizationKey": "",
+        "ParentObjectID": ""
+      },
+      "CompatibleCards": [],
+      "CompatibleTags": [],
+      "Conditions": {},
+      "ConditionsCard": 0,
+      "CookerChanges": {
+        "ChargesChange": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "DropOnDestroyList": false,
+        "FuelChange": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "LiquidEffectScaling": 0,
+        "LiquidQuantityChange": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "ModType": 0,
+        "ModifyDurability": false,
+        "ModifyLiquid": false,
+        "Special1Change": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "Special2Change": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "Special3Change": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "Special4Change": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "SpoilageChange": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "TransferCharges": false,
+        "TransferFuel": false,
+        "TransferInventory": false,
+        "TransferLiquid": false,
+        "TransferSpecial1": false,
+        "TransferSpecial2": false,
+        "TransferSpecial3": false,
+        "TransferSpecial4": false,
+        "TransferSpoilage": false,
+        "TransferUsage": false,
+        "TransformInto": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "UsageChange": {
+          "x": 0.0,
+          "y": 0.0
+        }
+      },
+      "CustomCompleteSound": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "CustomCookingText": {
+        "DefaultText": "{0}\u540E\u5B8C\u6210",
+        "LocalizationKey": "",
+        "ParentObjectID": ""
+      },
+      "CustomNotification": {
+        "DefaultText": "",
+        "LocalizationKey": "",
+        "ParentObjectID": ""
+      },
+      "Drops": [
+        {
+          "DroppedCard": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "DroppedCardWarpData": "6a3387277f35feab1f03670b34af3ab1",
+          "DroppedCardWarpType": 3,
+          "Quantity": {
+            "x": 1.0,
+            "y": 1.0
+          }
+        }
+      ],
+      "DropsAsCollection": [],
+      "Duration": 1,
+      "DurationRdmVariation": 0,
+      "HideCookingProgress": false,
+      "HideResultNotification": false,
+      "IngredientChanges": {
+        "ChargesChange": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "DropOnDestroyList": false,
+        "FuelChange": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "LiquidEffectScaling": 0,
+        "LiquidQuantityChange": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "ModType": 0,
+        "ModifyDurability": false,
+        "ModifyLiquid": false,
+        "Special1Change": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "Special2Change": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "Special3Change": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "Special4Change": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "SpoilageChange": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "TransferCharges": false,
+        "TransferFuel": false,
+        "TransferInventory": false,
+        "TransferLiquid": false,
+        "TransferSpecial1": false,
+        "TransferSpecial2": false,
+        "TransferSpecial3": false,
+        "TransferSpecial4": false,
+        "TransferSpoilage": false,
+        "TransferUsage": false,
+        "TransformInto": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "UsageChange": {
+          "x": 0.0,
+          "y": 0.0
+        }
+      },
+      "Notification": 0,
+      "RandomSingleDrop": false,
+      "ScaleDropsPerLiquidQuantity": {
+        "Active": false,
+        "FloatValue": 0.0
+      },
+      "StatModifications": [
+        {
+          "ApplyEachTick": false,
+          "InstantModifier": false,
+          "IsInverse": false,
+          "RateModifier": {
+            "x": 0,
+            "y": 0
+          },
+          "Stat": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "StatWarpData": "93c4433b9c1640343b87576d355e53b4",
+          "StatWarpType": 3,
+          "ValueModifier": {
+            "x": 0.5,
+            "y": 0.5
+          }
+        }
+      ],
+      "CompatibleCardsWarpType": 3,
+      "CompatibleCardsWarpData": [
+        "628f15663f287638186f1a95668e3088"
+      ]
+    },
+    {
+      "ActionName": {
+        "DefaultText": "cook_6",
+        "LocalizationKey": "",
+        "ParentObjectID": ""
+      },
+      "CannotCookText": {
+        "DefaultText": "",
+        "LocalizationKey": "",
+        "ParentObjectID": ""
+      },
+      "CompatibleCards": [],
+      "CompatibleTags": [],
+      "Conditions": {},
+      "ConditionsCard": 0,
+      "CookerChanges": {
+        "ChargesChange": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "DropOnDestroyList": false,
+        "FuelChange": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "LiquidEffectScaling": 0,
+        "LiquidQuantityChange": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "ModType": 0,
+        "ModifyDurability": false,
+        "ModifyLiquid": false,
+        "Special1Change": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "Special2Change": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "Special3Change": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "Special4Change": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "SpoilageChange": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "TransferCharges": false,
+        "TransferFuel": false,
+        "TransferInventory": false,
+        "TransferLiquid": false,
+        "TransferSpecial1": false,
+        "TransferSpecial2": false,
+        "TransferSpecial3": false,
+        "TransferSpecial4": false,
+        "TransferSpoilage": false,
+        "TransferUsage": false,
+        "TransformInto": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "UsageChange": {
+          "x": 0.0,
+          "y": 0.0
+        }
+      },
+      "CustomCompleteSound": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "CustomCookingText": {
+        "DefaultText": "{0}\u540E\u5B8C\u6210",
+        "LocalizationKey": "",
+        "ParentObjectID": ""
+      },
+      "CustomNotification": {
+        "DefaultText": "",
+        "LocalizationKey": "",
+        "ParentObjectID": ""
+      },
+      "Drops": [
+        {
+          "DroppedCard": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "DroppedCardWarpData": "7f317c41e10b068ef3f13661f1930b21",
+          "DroppedCardWarpType": 3,
+          "Quantity": {
+            "x": 1.0,
+            "y": 1.0
+          }
+        }
+      ],
+      "DropsAsCollection": [],
+      "Duration": 2,
+      "DurationRdmVariation": 0,
+      "HideCookingProgress": false,
+      "HideResultNotification": false,
+      "IngredientChanges": {
+        "ChargesChange": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "DropOnDestroyList": false,
+        "FuelChange": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "LiquidEffectScaling": 0,
+        "LiquidQuantityChange": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "ModType": 0,
+        "ModifyDurability": false,
+        "ModifyLiquid": false,
+        "Special1Change": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "Special2Change": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "Special3Change": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "Special4Change": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "SpoilageChange": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "TransferCharges": false,
+        "TransferFuel": false,
+        "TransferInventory": false,
+        "TransferLiquid": false,
+        "TransferSpecial1": false,
+        "TransferSpecial2": false,
+        "TransferSpecial3": false,
+        "TransferSpecial4": false,
+        "TransferSpoilage": false,
+        "TransferUsage": false,
+        "TransformInto": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "UsageChange": {
+          "x": 0.0,
+          "y": 0.0
+        }
+      },
+      "Notification": 0,
+      "RandomSingleDrop": false,
+      "ScaleDropsPerLiquidQuantity": {
+        "Active": false,
+        "FloatValue": 0.0
+      },
+      "StatModifications": [
+        {
+          "ApplyEachTick": false,
+          "InstantModifier": false,
+          "IsInverse": false,
+          "RateModifier": {
+            "x": 0,
+            "y": 0
+          },
+          "Stat": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "StatWarpData": "93c4433b9c1640343b87576d355e53b4",
+          "StatWarpType": 3,
+          "ValueModifier": {
+            "x": 1.0,
+            "y": 1.0
+          }
+        }
+      ],
+      "CompatibleCardsWarpType": 3,
+      "CompatibleCardsWarpData": [
+        "5514a69bef527b39f23dafffa244604d"
+      ]
+    },
+    {
+      "ActionName": {
+        "DefaultText": "cook_7",
+        "LocalizationKey": "",
+        "ParentObjectID": ""
+      },
+      "CannotCookText": {
+        "DefaultText": "",
+        "LocalizationKey": "",
+        "ParentObjectID": ""
+      },
+      "CompatibleCards": [],
+      "CompatibleTags": [],
+      "Conditions": {},
+      "ConditionsCard": 0,
+      "CookerChanges": {
+        "ChargesChange": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "DropOnDestroyList": false,
+        "FuelChange": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "LiquidEffectScaling": 0,
+        "LiquidQuantityChange": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "ModType": 0,
+        "ModifyDurability": false,
+        "ModifyLiquid": false,
+        "Special1Change": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "Special2Change": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "Special3Change": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "Special4Change": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "SpoilageChange": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "TransferCharges": false,
+        "TransferFuel": false,
+        "TransferInventory": false,
+        "TransferLiquid": false,
+        "TransferSpecial1": false,
+        "TransferSpecial2": false,
+        "TransferSpecial3": false,
+        "TransferSpecial4": false,
+        "TransferSpoilage": false,
+        "TransferUsage": false,
+        "TransformInto": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "UsageChange": {
+          "x": 0.0,
+          "y": 0.0
+        }
+      },
+      "CustomCompleteSound": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "CustomCookingText": {
+        "DefaultText": "{0}\u540E\u5B8C\u6210",
+        "LocalizationKey": "",
+        "ParentObjectID": ""
+      },
+      "CustomNotification": {
+        "DefaultText": "",
+        "LocalizationKey": "",
+        "ParentObjectID": ""
+      },
+      "Drops": [
+        {
+          "DroppedCard": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "DroppedCardWarpData": "c77f1a59c5705b042ec86f8ec9b6b25c",
+          "DroppedCardWarpType": 3,
+          "Quantity": {
+            "x": 1.0,
+            "y": 1.0
+          }
+        }
+      ],
+      "DropsAsCollection": [],
+      "Duration": 4,
+      "DurationRdmVariation": 0,
+      "HideCookingProgress": false,
+      "HideResultNotification": false,
+      "IngredientChanges": {
+        "ChargesChange": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "DropOnDestroyList": false,
+        "FuelChange": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "LiquidEffectScaling": 0,
+        "LiquidQuantityChange": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "ModType": 0,
+        "ModifyDurability": false,
+        "ModifyLiquid": false,
+        "Special1Change": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "Special2Change": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "Special3Change": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "Special4Change": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "SpoilageChange": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "TransferCharges": false,
+        "TransferFuel": false,
+        "TransferInventory": false,
+        "TransferLiquid": false,
+        "TransferSpecial1": false,
+        "TransferSpecial2": false,
+        "TransferSpecial3": false,
+        "TransferSpecial4": false,
+        "TransferSpoilage": false,
+        "TransferUsage": false,
+        "TransformInto": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "UsageChange": {
+          "x": 0.0,
+          "y": 0.0
+        }
+      },
+      "Notification": 0,
+      "RandomSingleDrop": false,
+      "ScaleDropsPerLiquidQuantity": {
+        "Active": false,
+        "FloatValue": 0.0
+      },
+      "StatModifications": [
+        {
+          "ApplyEachTick": false,
+          "InstantModifier": false,
+          "IsInverse": false,
+          "RateModifier": {
+            "x": 0,
+            "y": 0
+          },
+          "Stat": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "StatWarpData": "93c4433b9c1640343b87576d355e53b4",
+          "StatWarpType": 3,
+          "ValueModifier": {
+            "x": 0.5,
+            "y": 0.5
+          }
+        }
+      ],
+      "CompatibleCardsWarpType": 3,
+      "CompatibleCardsWarpData": [
+        "be537206457b895f6e3c4b292ae42f6b"
+      ]
+    },
+    {
+      "ActionName": {
+        "DefaultText": "cook_8",
+        "LocalizationKey": "",
+        "ParentObjectID": ""
+      },
+      "CannotCookText": {
+        "DefaultText": "",
+        "LocalizationKey": "",
+        "ParentObjectID": ""
+      },
+      "CompatibleCards": [],
+      "CompatibleTags": [],
+      "Conditions": {},
+      "ConditionsCard": 0,
+      "CookerChanges": {
+        "ChargesChange": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "DropOnDestroyList": false,
+        "FuelChange": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "LiquidEffectScaling": 0,
+        "LiquidQuantityChange": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "ModType": 0,
+        "ModifyDurability": false,
+        "ModifyLiquid": false,
+        "Special1Change": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "Special2Change": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "Special3Change": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "Special4Change": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "SpoilageChange": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "TransferCharges": false,
+        "TransferFuel": false,
+        "TransferInventory": false,
+        "TransferLiquid": false,
+        "TransferSpecial1": false,
+        "TransferSpecial2": false,
+        "TransferSpecial3": false,
+        "TransferSpecial4": false,
+        "TransferSpoilage": false,
+        "TransferUsage": false,
+        "TransformInto": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "UsageChange": {
+          "x": 0.0,
+          "y": 0.0
+        }
+      },
+      "CustomCompleteSound": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "CustomCookingText": {
+        "DefaultText": "{0}\u540E\u5B8C\u6210",
+        "LocalizationKey": "",
+        "ParentObjectID": ""
+      },
+      "CustomNotification": {
+        "DefaultText": "",
+        "LocalizationKey": "",
+        "ParentObjectID": ""
+      },
+      "Drops": [
+        {
+          "DroppedCard": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "DroppedCardWarpData": "f6f66e8a9385a2a97a979f3baa52a679",
+          "DroppedCardWarpType": 3,
+          "Quantity": {
+            "x": 1.0,
+            "y": 1.0
+          }
+        }
+      ],
+      "DropsAsCollection": [],
+      "Duration": 2,
+      "DurationRdmVariation": 0,
+      "HideCookingProgress": false,
+      "HideResultNotification": false,
+      "IngredientChanges": {
+        "ChargesChange": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "DropOnDestroyList": false,
+        "FuelChange": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "LiquidEffectScaling": 0,
+        "LiquidQuantityChange": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "ModType": 0,
+        "ModifyDurability": false,
+        "ModifyLiquid": false,
+        "Special1Change": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "Special2Change": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "Special3Change": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "Special4Change": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "SpoilageChange": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "TransferCharges": false,
+        "TransferFuel": false,
+        "TransferInventory": false,
+        "TransferLiquid": false,
+        "TransferSpecial1": false,
+        "TransferSpecial2": false,
+        "TransferSpecial3": false,
+        "TransferSpecial4": false,
+        "TransferSpoilage": false,
+        "TransferUsage": false,
+        "TransformInto": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "UsageChange": {
+          "x": 0.0,
+          "y": 0.0
+        }
+      },
+      "Notification": 0,
+      "RandomSingleDrop": false,
+      "ScaleDropsPerLiquidQuantity": {
+        "Active": false,
+        "FloatValue": 0.0
+      },
+      "StatModifications": [
+        {
+          "ApplyEachTick": false,
+          "InstantModifier": false,
+          "IsInverse": false,
+          "RateModifier": {
+            "x": 0,
+            "y": 0
+          },
+          "Stat": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "StatWarpData": "93c4433b9c1640343b87576d355e53b4",
+          "StatWarpType": 3,
+          "ValueModifier": {
+            "x": 0.5,
+            "y": 0.5
+          }
+        }
+      ],
+      "CompatibleCardsWarpType": 3,
+      "CompatibleCardsWarpData": [
+        "2c25d8c4b4fc2d2930429ba9b5960cad"
+      ]
+    },
+    {
+      "ActionName": {
+        "DefaultText": "cook_9",
+        "LocalizationKey": "",
+        "ParentObjectID": ""
+      },
+      "CannotCookText": {
+        "DefaultText": "",
+        "LocalizationKey": "",
+        "ParentObjectID": ""
+      },
+      "CompatibleCards": [],
+      "CompatibleTags": [],
+      "Conditions": {},
+      "ConditionsCard": 0,
+      "CookerChanges": {
+        "ChargesChange": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "DropOnDestroyList": false,
+        "FuelChange": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "LiquidEffectScaling": 0,
+        "LiquidQuantityChange": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "ModType": 0,
+        "ModifyDurability": false,
+        "ModifyLiquid": false,
+        "Special1Change": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "Special2Change": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "Special3Change": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "Special4Change": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "SpoilageChange": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "TransferCharges": false,
+        "TransferFuel": false,
+        "TransferInventory": false,
+        "TransferLiquid": false,
+        "TransferSpecial1": false,
+        "TransferSpecial2": false,
+        "TransferSpecial3": false,
+        "TransferSpecial4": false,
+        "TransferSpoilage": false,
+        "TransferUsage": false,
+        "TransformInto": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "UsageChange": {
+          "x": 0.0,
+          "y": 0.0
+        }
+      },
+      "CustomCompleteSound": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "CustomCookingText": {
+        "DefaultText": "{0}\u540E\u5B8C\u6210",
+        "LocalizationKey": "",
+        "ParentObjectID": ""
+      },
+      "CustomNotification": {
+        "DefaultText": "",
+        "LocalizationKey": "",
+        "ParentObjectID": ""
+      },
+      "Drops": [
+        {
+          "DroppedCard": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "DroppedCardWarpData": "745e0c1e63005e184bae913ee25151ad",
+          "DroppedCardWarpType": 3,
+          "Quantity": {
+            "x": 1.0,
+            "y": 1.0
+          }
+        }
+      ],
+      "DropsAsCollection": [],
+      "Duration": 1,
+      "DurationRdmVariation": 0,
+      "HideCookingProgress": false,
+      "HideResultNotification": false,
+      "IngredientChanges": {
+        "ChargesChange": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "DropOnDestroyList": false,
+        "FuelChange": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "LiquidEffectScaling": 0,
+        "LiquidQuantityChange": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "ModType": 0,
+        "ModifyDurability": false,
+        "ModifyLiquid": false,
+        "Special1Change": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "Special2Change": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "Special3Change": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "Special4Change": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "SpoilageChange": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "TransferCharges": false,
+        "TransferFuel": false,
+        "TransferInventory": false,
+        "TransferLiquid": false,
+        "TransferSpecial1": false,
+        "TransferSpecial2": false,
+        "TransferSpecial3": false,
+        "TransferSpecial4": false,
+        "TransferSpoilage": false,
+        "TransferUsage": false,
+        "TransformInto": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "UsageChange": {
+          "x": 0.0,
+          "y": 0.0
+        }
+      },
+      "Notification": 0,
+      "RandomSingleDrop": false,
+      "ScaleDropsPerLiquidQuantity": {
+        "Active": false,
+        "FloatValue": 0.0
+      },
+      "StatModifications": [
+        {
+          "ApplyEachTick": false,
+          "InstantModifier": false,
+          "IsInverse": false,
+          "RateModifier": {
+            "x": 0,
+            "y": 0
+          },
+          "Stat": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "StatWarpData": "93c4433b9c1640343b87576d355e53b4",
+          "StatWarpType": 3,
+          "ValueModifier": {
+            "x": 0.5,
+            "y": 0.5
+          }
+        }
+      ],
+      "CompatibleCardsWarpType": 3,
+      "CompatibleCardsWarpData": [
+        "31ef7a8cfc1b36bbebc18b9dd05ffd53"
+      ]
+    },
+    {
+      "ActionName": {
+        "DefaultText": "\u70E7\u7126\u7269",
+        "LocalizationKey": "",
+        "ParentObjectID": ""
+      },
+      "CannotCookText": {
+        "DefaultText": "",
+        "LocalizationKey": "",
+        "ParentObjectID": ""
+      },
+      "CompatibleCards": [],
+      "CompatibleTags": [],
+      "Conditions": {},
+      "ConditionsCard": 0,
+      "CookerChanges": {
+        "ChargesChange": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "DropOnDestroyList": false,
+        "FuelChange": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "LiquidEffectScaling": 0,
+        "LiquidQuantityChange": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "ModType": 0,
+        "ModifyDurability": false,
+        "ModifyLiquid": false,
+        "Special1Change": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "Special2Change": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "Special3Change": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "Special4Change": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "SpoilageChange": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "TransferCharges": false,
+        "TransferFuel": false,
+        "TransferInventory": false,
+        "TransferLiquid": false,
+        "TransferSpecial1": false,
+        "TransferSpecial2": false,
+        "TransferSpecial3": false,
+        "TransferSpecial4": false,
+        "TransferSpoilage": false,
+        "TransferUsage": false,
+        "TransformInto": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "UsageChange": {
+          "x": 0.0,
+          "y": 0.0
+        }
+      },
+      "CustomCompleteSound": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "CustomCookingText": {
+        "DefaultText": "{0}\u540E\u70E7\u7126",
+        "LocalizationKey": "",
+        "ParentObjectID": ""
+      },
+      "CustomNotification": {
+        "DefaultText": "{0}\u70E7\u7126\u4E86\u2026\u2026",
+        "LocalizationKey": "",
+        "ParentObjectID": ""
+      },
+      "Drops": [
+        {
+          "DroppedCard": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "DroppedCardWarpData": "274b94170226fcd479d2e73891000c9a",
+          "DroppedCardWarpType": 3,
+          "Quantity": {
+            "x": 1.0,
+            "y": 1.0
+          }
+        }
+      ],
+      "DropsAsCollection": [],
+      "Duration": 2,
+      "DurationRdmVariation": 0,
+      "HideCookingProgress": false,
+      "HideResultNotification": false,
+      "IngredientChanges": {
+        "ChargesChange": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "DropOnDestroyList": false,
+        "FuelChange": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "LiquidEffectScaling": 0,
+        "LiquidQuantityChange": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "ModType": 0,
+        "ModifyDurability": false,
+        "ModifyLiquid": false,
+        "Special1Change": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "Special2Change": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "Special3Change": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "Special4Change": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "SpoilageChange": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "TransferCharges": false,
+        "TransferFuel": false,
+        "TransferInventory": false,
+        "TransferLiquid": false,
+        "TransferSpecial1": false,
+        "TransferSpecial2": false,
+        "TransferSpecial3": false,
+        "TransferSpecial4": false,
+        "TransferSpoilage": false,
+        "TransferUsage": false,
+        "TransformInto": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "UsageChange": {
+          "x": 0.0,
+          "y": 0.0
+        }
+      },
+      "Notification": 0,
+      "RandomSingleDrop": false,
+      "ScaleDropsPerLiquidQuantity": {
+        "Active": false,
+        "FloatValue": 0.0
+      },
+      "StatModifications": [],
+      "CompatibleCardsWarpType": 3,
+      "CompatibleCardsWarpData": [
+        "745e0c1e63005e184bae913ee25151ad",
+        "f6f66e8a9385a2a97a979f3baa52a679"
+      ]
+    }
+  ],
+  "CookingRecipesWarpType": 4
+}
