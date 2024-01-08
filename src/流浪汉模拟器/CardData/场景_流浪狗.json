@@ -1,12 +1,12 @@
 {
   "CardName": {
     "DefaultText": "\u6D41\u6D6A\u72D7",
-    "LocalizationKey": "",
+    "LocalizationKey": "T-jxpkWqZ+hS3g5wZQvEGvHkAzLVo=",
     "ParentObjectID": ""
   },
   "CardDescription": {
     "DefaultText": "\u4E00\u53EA\u6D41\u6D6A\u72D7\uFF0C\u5B9A\u671F\u5582\u98DF\u8089\u7C7B\u7ED9\u5B83\u4F1A\u8BA9\u5B83\u8FFD\u968F\u4F60",
-    "LocalizationKey": "",
+    "LocalizationKey": "T-QaTfAo/4O1DEbKS3YBX7YIUA5Kg=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -188,7 +188,7 @@
       },
       "ActionName": {
         "DefaultText": "\u6295\u5582\u7F8A\u8089",
-        "LocalizationKey": "",
+        "LocalizationKey": "T-XDo/KwvZkcL+9MpjkzB92+Sy80I=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -405,7 +405,7 @@
       "RequiredReceivingDurabilities": {
         "FailMessage": {
           "DefaultText": "\u5B83\u4E0D\u60F3\u518D\u5403\u4E86",
-          "LocalizationKey": "",
+          "LocalizationKey": "T-GRuVp8B8Z263b7EeegluTZ/QvWw=",
           "ParentObjectID": ""
         },
         "HideActionIfNotMet": false,
@@ -548,7 +548,7 @@
       },
       "ActionName": {
         "DefaultText": "\u6295\u5582\u9E1F\u8089",
-        "LocalizationKey": "",
+        "LocalizationKey": "T-3I+vH52rV5BNTDIrft1CUlc/dx0=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -765,7 +765,7 @@
       "RequiredReceivingDurabilities": {
         "FailMessage": {
           "DefaultText": "\u5B83\u4E0D\u60F3\u518D\u5403\u4E86",
-          "LocalizationKey": "",
+          "LocalizationKey": "T-GRuVp8B8Z263b7EeegluTZ/QvWw=",
           "ParentObjectID": ""
         },
         "HideActionIfNotMet": false,
@@ -908,7 +908,7 @@
       },
       "ActionName": {
         "DefaultText": "\u6295\u5582\u7315\u7334\u8089",
-        "LocalizationKey": "",
+        "LocalizationKey": "T-f97MO2CEloaYoV4+SMn3QNGX+3U=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -1125,7 +1125,7 @@
       "RequiredReceivingDurabilities": {
         "FailMessage": {
           "DefaultText": "\u5B83\u4E0D\u60F3\u518D\u5403\u4E86",
-          "LocalizationKey": "",
+          "LocalizationKey": "T-GRuVp8B8Z263b7EeegluTZ/QvWw=",
           "ParentObjectID": ""
         },
         "HideActionIfNotMet": false,
@@ -1268,7 +1268,7 @@
       },
       "ActionName": {
         "DefaultText": "\u6295\u5582\u8089",
-        "LocalizationKey": "",
+        "LocalizationKey": "T-ktToa+9iimhgRTGeZPljTs2kEO0=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -1485,7 +1485,7 @@
       "RequiredReceivingDurabilities": {
         "FailMessage": {
           "DefaultText": "\u5B83\u4E0D\u60F3\u518D\u5403\u4E86",
-          "LocalizationKey": "",
+          "LocalizationKey": "T-GRuVp8B8Z263b7EeegluTZ/QvWw=",
           "ParentObjectID": ""
         },
         "HideActionIfNotMet": false,
@@ -1628,7 +1628,7 @@
       },
       "ActionName": {
         "DefaultText": "\u6295\u5582\u5DE8\u8725\u8089",
-        "LocalizationKey": "",
+        "LocalizationKey": "T-JMb1nz+KvsWcmvtVt0ybfGlPvtM=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -1845,7 +1845,7 @@
       "RequiredReceivingDurabilities": {
         "FailMessage": {
           "DefaultText": "\u5B83\u4E0D\u60F3\u518D\u5403\u4E86",
-          "LocalizationKey": "",
+          "LocalizationKey": "T-GRuVp8B8Z263b7EeegluTZ/QvWw=",
           "ParentObjectID": ""
         },
         "HideActionIfNotMet": false,
@@ -1988,7 +1988,7 @@
       },
       "ActionName": {
         "DefaultText": "\u6295\u5582\u91CE\u732A\u8089",
-        "LocalizationKey": "",
+        "LocalizationKey": "T-//MhcMTXVi8Zg5HelWGqb4ovwzM=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -2205,7 +2205,7 @@
       "RequiredReceivingDurabilities": {
         "FailMessage": {
           "DefaultText": "\u5B83\u4E0D\u60F3\u518D\u5403\u4E86",
-          "LocalizationKey": "",
+          "LocalizationKey": "T-GRuVp8B8Z263b7EeegluTZ/QvWw=",
           "ParentObjectID": ""
         },
         "HideActionIfNotMet": false,

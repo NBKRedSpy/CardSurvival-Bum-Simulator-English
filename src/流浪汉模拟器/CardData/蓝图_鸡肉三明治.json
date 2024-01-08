@@ -1,7 +1,7 @@
 {
   "CardName": {
     "DefaultText": "\u9E21\u8089\u4E09\u660E\u6CBB",
-    "LocalizationKey": "",
+    "LocalizationKey": "T-SYJyybWN5fuDjEZCLegaPExxTr8=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -3476,7 +3476,7 @@
   "UniqueOnBoard": false,
   "UnlockConditionsDesc": {
     "DefaultText": "\u9700\u8981\u5341\u5757",
-    "LocalizationKey": "",
+    "LocalizationKey": "T-crTE+rn0HWn34CaZXndgtIZ6Hvg=",
     "ParentObjectID": ""
   },
   "UsageDurability": {

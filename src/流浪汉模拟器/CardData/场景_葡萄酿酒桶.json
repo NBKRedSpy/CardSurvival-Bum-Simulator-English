@@ -1,12 +1,12 @@
 {
   "CardName": {
     "DefaultText": "\u8461\u8404\u917F\u9152\u6876",
-    "LocalizationKey": "",
+    "LocalizationKey": "T-fFAH9CagG7e4UmBFQYDoLC4UfWc=",
     "ParentObjectID": ""
   },
   "CardDescription": {
     "DefaultText": "\u6211\u5E94\u8BE5\u653E\u8461\u8404\u8FDB\u53BB",
-    "LocalizationKey": "",
+    "LocalizationKey": "T-T5KK+YymHUObbn7G+Tprlk2E2Rk=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -130,7 +130,7 @@
       },
       "ActionName": {
         "DefaultText": "\u5012\u5165",
-        "LocalizationKey": "",
+        "LocalizationKey": "T-5nk2vAzl/pmAnibAmP10JI/lb6g=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -376,7 +376,7 @@
       "RequiredReceivingDurabilities": {
         "FailMessage": {
           "DefaultText": "\u5DF2\u7ECF\u6EE1\u4E86",
-          "LocalizationKey": "",
+          "LocalizationKey": "T-roNzw8p4EB2kYLZeKb9LxJQSzBQ=",
           "ParentObjectID": ""
         },
         "HideActionIfNotMet": false,
@@ -473,7 +473,7 @@
   "CookingConditions": {
     "CookingPausedNotification": {
       "DefaultText": "\u9700\u8981\u8461\u8404\uFF01",
-      "LocalizationKey": "",
+      "LocalizationKey": "T-vbn3yvWZ+FfuZDIW2ioofduunj4=",
       "ParentObjectID": ""
     },
     "CookingPausedSound": {
@@ -503,7 +503,7 @@
     {
       "ActionName": {
         "DefaultText": "\u9152\u7CBE",
-        "LocalizationKey": "",
+        "LocalizationKey": "T-3PvmgaOg38DqGYwHZJYL7p25Q/Y=",
         "ParentObjectID": ""
       },
       "CannotCookText": {
@@ -578,7 +578,7 @@
       },
       "CustomCookingText": {
         "DefaultText": "{0}\u540E\u5B8C\u6210",
-        "LocalizationKey": "",
+        "LocalizationKey": "T-FOYYcobPVk187e3WMWVcuwy9UOs=",
         "ParentObjectID": ""
       },
       "CustomNotification": {
@@ -1730,7 +1730,7 @@
     "Active": true,
     "CardStatName": {
       "DefaultText": "\u8461\u8404",
-      "LocalizationKey": "",
+      "LocalizationKey": "T-356v+iOL6CAJEF+4bSVRu2szC4E=",
       "ParentObjectID": ""
     },
     "ExtraRateWhenEquipped": 0.0,

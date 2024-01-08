@@ -1,12 +1,12 @@
 {
   "CardName": {
     "DefaultText": "\u6458\u5149\u7684\u6A58\u5B50\u6811",
-    "LocalizationKey": "",
+    "LocalizationKey": "T-ryxWuOIkwBphTgbny6ZRK5AYAQM=",
     "ParentObjectID": ""
   },
   "CardDescription": {
     "DefaultText": "\u6A58\u5B50\u8FD8\u662F\u4F1A\u751F\u957F\u51FA\u6765\u7684\u3002",
-    "LocalizationKey": "",
+    "LocalizationKey": "T-VjMax53qE9pmghdB6mvEG7QPe2A=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -130,7 +130,7 @@
       },
       "ActionName": {
         "DefaultText": "\u780D\u6811",
-        "LocalizationKey": "",
+        "LocalizationKey": "T-uCBXdWqjh41D6FeahtPzoRYOSP4=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -587,7 +587,7 @@
       },
       "ActionName": {
         "DefaultText": "\u780D\u6811",
-        "LocalizationKey": "",
+        "LocalizationKey": "T-uCBXdWqjh41D6FeahtPzoRYOSP4=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -1088,7 +1088,7 @@
     "Active": true,
     "CardStatName": {
       "DefaultText": "\u6A58\u5B50 \u6210\u719F\u5EA6",
-      "LocalizationKey": "",
+      "LocalizationKey": "T-hPlW6BhsvAcrmL8/c85TsbWdy7o=",
       "ParentObjectID": ""
     },
     "ExtraRateWhenEquipped": 0.0,
@@ -1100,7 +1100,7 @@
     "OnFull": {
       "ActionDescription": {
         "DefaultText": "\u6811\u4E0A\u53C8\u957F\u51FA\u4E86\u6A58\u5B50\uFF01",
-        "LocalizationKey": "",
+        "LocalizationKey": "T-Z/G93KjBJEdlAkgWu+31qKz7xzo=",
         "ParentObjectID": ""
       },
       "ActionLog": {
@@ -1591,7 +1591,7 @@
     "Active": true,
     "CardStatName": {
       "DefaultText": "\u780D\u4F10\u8FDB\u5EA6",
-      "LocalizationKey": "",
+      "LocalizationKey": "T-nkEturhmmKqoncCNKKKZmC3SFY4=",
       "ParentObjectID": ""
     },
     "ExtraRateWhenEquipped": 0.0,
@@ -1807,7 +1807,7 @@
     "OnZero": {
       "ActionDescription": {
         "DefaultText": "\u6811\u5012\u4E86\uFF01",
-        "LocalizationKey": "",
+        "LocalizationKey": "T-efs8sPSE477UOZRPxwIxF8G/SpA=",
         "ParentObjectID": ""
       },
       "ActionLog": {

@@ -1,12 +1,12 @@
 {
   "CardName": {
     "DefaultText": "\u81EA\u52A9\u552E\u8D27\u673A",
-    "LocalizationKey": "",
+    "LocalizationKey": "T-W9IHa5LRSECTKzXIP6u0LNiBwlY=",
     "ParentObjectID": ""
   },
   "CardDescription": {
     "DefaultText": "\u4E00\u4E2A\u4F7F\u7528\u73B0\u91D1\u6765\u8D2D\u4E70\u7269\u54C1\u7684\u552E\u8D27\u673A\uFF0C\u6216\u8BB8\u6211\u53EF\u4EE5\u7528\u64AC\u68CD\u64AC\u5F00\u5077\u5077\u62FF\u4E2A\u5546\u54C1\uFF1F",
-    "LocalizationKey": "",
+    "LocalizationKey": "T-b36RdOwHOcy3Jce1zkEtkEOCCe0=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -130,7 +130,7 @@
       },
       "ActionName": {
         "DefaultText": "\u64AC\u5F00",
-        "LocalizationKey": "",
+        "LocalizationKey": "T-M6rXNolKFqNzBsY6+kHOBuZXzfk=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -1606,7 +1606,7 @@
       },
       "ActionName": {
         "DefaultText": "\u64AC\u5F00",
-        "LocalizationKey": "",
+        "LocalizationKey": "T-M6rXNolKFqNzBsY6+kHOBuZXzfk=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -3141,7 +3141,7 @@
       },
       "ActionName": {
         "DefaultText": "\u64AC\u5F00",
-        "LocalizationKey": "",
+        "LocalizationKey": "T-M6rXNolKFqNzBsY6+kHOBuZXzfk=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -4583,7 +4583,7 @@
       },
       "ActionName": {
         "DefaultText": "\u64AC\u5F00",
-        "LocalizationKey": "",
+        "LocalizationKey": "T-M6rXNolKFqNzBsY6+kHOBuZXzfk=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -6025,7 +6025,7 @@
       },
       "ActionName": {
         "DefaultText": "\u64AC\u5F00",
-        "LocalizationKey": "",
+        "LocalizationKey": "T-M6rXNolKFqNzBsY6+kHOBuZXzfk=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -7467,7 +7467,7 @@
       },
       "ActionName": {
         "DefaultText": "\u64AC\u5F00",
-        "LocalizationKey": "",
+        "LocalizationKey": "T-M6rXNolKFqNzBsY6+kHOBuZXzfk=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],

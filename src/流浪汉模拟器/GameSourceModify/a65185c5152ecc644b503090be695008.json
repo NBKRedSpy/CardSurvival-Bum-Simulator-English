@@ -5,7 +5,7 @@
     {
       "ActionName": {
         "DefaultText": "cook_0",
-        "LocalizationKey": "",
+        "LocalizationKey": "T-HyuXeRpPG23pTV2oSEpC9zryOF0=",
         "ParentObjectID": ""
       },
       "CannotCookText": {
@@ -135,7 +135,7 @@
       },
       "CustomCookingText": {
         "DefaultText": "{0}\u540E\u5B8C\u6210",
-        "LocalizationKey": "",
+        "LocalizationKey": "T-FOYYcobPVk187e3WMWVcuwy9UOs=",
         "ParentObjectID": ""
       },
       "CustomNotification": {
@@ -234,7 +234,7 @@
     {
       "ActionName": {
         "DefaultText": "cook_1",
-        "LocalizationKey": "",
+        "LocalizationKey": "T-k+hwhCELn4qsLvacUL5yPsFurLI=",
         "ParentObjectID": ""
       },
       "CannotCookText": {
@@ -364,7 +364,7 @@
       },
       "CustomCookingText": {
         "DefaultText": "{0}\u540E\u5B8C\u6210",
-        "LocalizationKey": "",
+        "LocalizationKey": "T-FOYYcobPVk187e3WMWVcuwy9UOs=",
         "ParentObjectID": ""
       },
       "CustomNotification": {
@@ -463,7 +463,7 @@
     {
       "ActionName": {
         "DefaultText": "cook_2",
-        "LocalizationKey": "",
+        "LocalizationKey": "T-9TCV/qFF6HRCHKuvq2qdp9fimkY=",
         "ParentObjectID": ""
       },
       "CannotCookText": {
@@ -593,7 +593,7 @@
       },
       "CustomCookingText": {
         "DefaultText": "{0}\u540E\u5B8C\u6210",
-        "LocalizationKey": "",
+        "LocalizationKey": "T-FOYYcobPVk187e3WMWVcuwy9UOs=",
         "ParentObjectID": ""
       },
       "CustomNotification": {
@@ -692,7 +692,7 @@
     {
       "ActionName": {
         "DefaultText": "cook_3",
-        "LocalizationKey": "",
+        "LocalizationKey": "T-r5vtDuRL5vpap4KbMlBzlWHDKYM=",
         "ParentObjectID": ""
       },
       "CannotCookText": {
@@ -822,7 +822,7 @@
       },
       "CustomCookingText": {
         "DefaultText": "{0}\u540E\u5B8C\u6210",
-        "LocalizationKey": "",
+        "LocalizationKey": "T-FOYYcobPVk187e3WMWVcuwy9UOs=",
         "ParentObjectID": ""
       },
       "CustomNotification": {

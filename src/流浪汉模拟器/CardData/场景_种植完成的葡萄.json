@@ -1,7 +1,7 @@
 {
   "CardName": {
     "DefaultText": "\u79CD\u690D\u5B8C\u6210\u7684\u8461\u8404",
-    "LocalizationKey": "",
+    "LocalizationKey": "T-mNVBWwtAirtt5XLR0Lg6Bk0zwCE=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -130,7 +130,7 @@
       },
       "ActionName": {
         "DefaultText": "\u6D47\u6C34",
-        "LocalizationKey": "",
+        "LocalizationKey": "T-rzFxFQtk1OXoXkuuSz98l6+X5b8=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -484,7 +484,7 @@
       },
       "ActionName": {
         "DefaultText": "\u65BD\u80A5",
-        "LocalizationKey": "",
+        "LocalizationKey": "T-fqVW2HFJzPlH4T6bJiswaHp992E=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -834,7 +834,7 @@
       },
       "ActionName": {
         "DefaultText": "\u65BD\u80A5",
-        "LocalizationKey": "",
+        "LocalizationKey": "T-fqVW2HFJzPlH4T6bJiswaHp992E=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -1184,7 +1184,7 @@
       },
       "ActionName": {
         "DefaultText": "\u65BD\u80A5",
-        "LocalizationKey": "",
+        "LocalizationKey": "T-fqVW2HFJzPlH4T6bJiswaHp992E=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -1593,7 +1593,7 @@
       },
       "ActionName": {
         "DefaultText": "\u6458\u53D6",
-        "LocalizationKey": "",
+        "LocalizationKey": "T-Q06KUwMNqzxxRzC+ZO9u3CFXxqQ=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -1930,7 +1930,7 @@
       },
       "ActionName": {
         "DefaultText": "\u6458\u53D6",
-        "LocalizationKey": "",
+        "LocalizationKey": "T-Q06KUwMNqzxxRzC+ZO9u3CFXxqQ=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -2247,7 +2247,7 @@
       },
       "ActionName": {
         "DefaultText": "\u642C\u8D70",
-        "LocalizationKey": "",
+        "LocalizationKey": "T-DOpL2mBkHjmaeRi18Z0PdBDux68=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -2463,7 +2463,7 @@
     "Active": true,
     "CardStatName": {
       "DefaultText": "\u6C34\u5206",
-      "LocalizationKey": "",
+      "LocalizationKey": "T-XXJYimzjmTRCjc8yXuQxB2SMNxg=",
       "ParentObjectID": ""
     },
     "ExtraRateWhenEquipped": 0.0,
@@ -5243,7 +5243,7 @@
     "Active": true,
     "CardStatName": {
       "DefaultText": "\u80A5\u529B",
-      "LocalizationKey": "",
+      "LocalizationKey": "T-ZB/zI6aEK2wE1RCVaG+gDAojvgI=",
       "ParentObjectID": ""
     },
     "ExtraRateWhenEquipped": 0.0,

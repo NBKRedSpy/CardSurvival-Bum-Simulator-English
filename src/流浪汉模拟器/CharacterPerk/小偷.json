@@ -30,7 +30,7 @@
   "PassiveStatModifiers": [],
   "PerkDescription": {
     "DefaultText": "\u4F60\u7684\u7F6A\u6076\u5EA6\u4E0B\u964D\u7684\u66F4\u5757",
-    "LocalizationKey": "",
+    "LocalizationKey": "T-2cnAfIZzAXW+b3wvM3jSV2ux6ls=",
     "ParentObjectID": ""
   },
   "PerkIcon": {
@@ -41,7 +41,7 @@
   "PerkIconWarpType": 3,
   "PerkName": {
     "DefaultText": "\u5C0F\u5077",
-    "LocalizationKey": "",
+    "LocalizationKey": "T-TyrvKVPx+PEaejeKxbbfSChkx04=",
     "ParentObjectID": ""
   },
   "PerkUnlockConditions": {

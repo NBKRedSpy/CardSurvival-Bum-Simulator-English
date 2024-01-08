@@ -1,12 +1,12 @@
 {
   "CardName": {
     "DefaultText": "\u6D41\u6D6A\u732B",
-    "LocalizationKey": "",
+    "LocalizationKey": "T-yHJHs+yMSrVaJ/lRhmKzdJ5kzJ0=",
     "ParentObjectID": ""
   },
   "CardDescription": {
     "DefaultText": "\u4E00\u53EA\u6D41\u6D6A\u732B\uFF0C\u5B9A\u671F\u5582\u98DF\u9C7C\u7C7B\u7ED9\u5B83\u4E5F\u8BB8\u4F1A\u8BA9\u5B83\u8FFD\u968F\u4F60",
-    "LocalizationKey": "",
+    "LocalizationKey": "T-mFzjHFQzqAxtG9tgH6tXV1KafIs=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -188,7 +188,7 @@
       },
       "ActionName": {
         "DefaultText": "\u6295\u5582\u7EEF\u9CA4",
-        "LocalizationKey": "",
+        "LocalizationKey": "T-K0L/uDREgB2ol03UPLcbI1ZP+j8=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -405,7 +405,7 @@
       "RequiredReceivingDurabilities": {
         "FailMessage": {
           "DefaultText": "\u5B83\u4E0D\u60F3\u518D\u5403\u4E86",
-          "LocalizationKey": "",
+          "LocalizationKey": "T-GRuVp8B8Z263b7EeegluTZ/QvWw=",
           "ParentObjectID": ""
         },
         "HideActionIfNotMet": false,
@@ -548,7 +548,7 @@
       },
       "ActionName": {
         "DefaultText": "\u6295\u5582\u9E66\u54E5\u9C7C",
-        "LocalizationKey": "",
+        "LocalizationKey": "T-h+yMdOwkje8djSFX8s/9iqNoV8Q=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -765,7 +765,7 @@
       "RequiredReceivingDurabilities": {
         "FailMessage": {
           "DefaultText": "\u5B83\u4E0D\u60F3\u518D\u5403\u4E86",
-          "LocalizationKey": "",
+          "LocalizationKey": "T-GRuVp8B8Z263b7EeegluTZ/QvWw=",
           "ParentObjectID": ""
         },
         "HideActionIfNotMet": false,
@@ -908,7 +908,7 @@
       },
       "ActionName": {
         "DefaultText": "\u6295\u5582\u9C7C\u8089",
-        "LocalizationKey": "",
+        "LocalizationKey": "T-Bu0haiXlxxDqtpFYsAGjC8097Ko=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -1125,7 +1125,7 @@
       "RequiredReceivingDurabilities": {
         "FailMessage": {
           "DefaultText": "\u5B83\u4E0D\u60F3\u518D\u5403\u4E86",
-          "LocalizationKey": "",
+          "LocalizationKey": "T-GRuVp8B8Z263b7EeegluTZ/QvWw=",
           "ParentObjectID": ""
         },
         "HideActionIfNotMet": false,
@@ -1268,7 +1268,7 @@
       },
       "ActionName": {
         "DefaultText": "\u6295\u5582\u5317\u68AD\u9C7C",
-        "LocalizationKey": "",
+        "LocalizationKey": "T-88/fhKOAFbA0hG9zdo449QpaJy8=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -1485,7 +1485,7 @@
       "RequiredReceivingDurabilities": {
         "FailMessage": {
           "DefaultText": "\u5B83\u4E0D\u60F3\u518D\u5403\u4E86",
-          "LocalizationKey": "",
+          "LocalizationKey": "T-GRuVp8B8Z263b7EeegluTZ/QvWw=",
           "ParentObjectID": ""
         },
         "HideActionIfNotMet": false,
@@ -1628,7 +1628,7 @@
       },
       "ActionName": {
         "DefaultText": "\u6295\u5582\u5927\u9A6C\u9C85\u9C7C",
-        "LocalizationKey": "",
+        "LocalizationKey": "T-QigEdv+0YbsbHbUGshD6UWboA+o=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -1845,7 +1845,7 @@
       "RequiredReceivingDurabilities": {
         "FailMessage": {
           "DefaultText": "\u5B83\u4E0D\u60F3\u518D\u5403\u4E86",
-          "LocalizationKey": "",
+          "LocalizationKey": "T-GRuVp8B8Z263b7EeegluTZ/QvWw=",
           "ParentObjectID": ""
         },
         "HideActionIfNotMet": false,

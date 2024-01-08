@@ -1,12 +1,12 @@
 {
   "CardName": {
     "DefaultText": "\u516C\u4EA4\u8F66",
-    "LocalizationKey": "",
+    "LocalizationKey": "T-QsKG9vJp7bj2pc8h3fSslpXLK4w=",
     "ParentObjectID": ""
   },
   "CardDescription": {
     "DefaultText": "\u767D\u5929\u5E02\u533A\u7684\u4FBF\u5229\u4EE3\u6B65\u5DE5\u5177\uFF0C\u9700\u8981\u51C6\u5907\u597D\u5341\u5757\u94B1(\u82E5\u51FA\u73B0\u4EA4\u901A\u5DE5\u5177\u590D\u5236\u591A\u4E2A\u7684\u60C5\u51B5\uFF0C\u53EA\u9700\u8981\u62FF\u51FA\u5DE5\u5177\u5185\u6240\u6709\u7684\u4E1C\u897F\u3001\u7136\u540E\u76F8\u4E92\u62D6\u52A8\u6D88\u6D88\u4E50\u5C31\u597D\u4E86)",
-    "LocalizationKey": "",
+    "LocalizationKey": "T-UpSmESgsL1rJvKRm4Gp2BMJerV0=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -130,7 +130,7 @@
       },
       "ActionName": {
         "DefaultText": "\u5220\u9664\u591A\u4F59\u516C\u4EA4\u8F66",
-        "LocalizationKey": "",
+        "LocalizationKey": "T-zVRESTsNCTvxAR2LhbgjKMddcDs=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -539,7 +539,7 @@
       },
       "ActionName": {
         "DefaultText": "\u524D\u5F80\u5E02\u4E2D\u5FC3",
-        "LocalizationKey": "",
+        "LocalizationKey": "T-the0cTvLkx9c3CqVBkfT7Pnt/Cs=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -1065,7 +1065,7 @@
       },
       "ActionName": {
         "DefaultText": "\u524D\u5F80A\u533A\u8857\u9053",
-        "LocalizationKey": "",
+        "LocalizationKey": "T-xgYcwYDzAJgJCqSb6hWmGW5YNCM=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -1591,7 +1591,7 @@
       },
       "ActionName": {
         "DefaultText": "\u524D\u5F80B\u533A\u8857\u9053",
-        "LocalizationKey": "",
+        "LocalizationKey": "T-+BlEsPEMl6GzDTnjE34PJJTwRgs=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -2117,7 +2117,7 @@
       },
       "ActionName": {
         "DefaultText": "\u524D\u5F80C\u533A\u8857\u9053",
-        "LocalizationKey": "",
+        "LocalizationKey": "T-DFgL9NZiRLKIdMVynjy/t7NpfZ8=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -2643,7 +2643,7 @@
       },
       "ActionName": {
         "DefaultText": "\u524D\u5F80D\u533A\u8857\u9053",
-        "LocalizationKey": "",
+        "LocalizationKey": "T-6adqeSacJv7x5Af2cD5yBW3+vew=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],

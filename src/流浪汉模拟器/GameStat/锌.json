@@ -32,7 +32,7 @@
   },
   "Description": {
     "DefaultText": "\u4EBA\u4F53\u5FC5\u987B\u7684\u8425\u517B\u5143\u7D20\uFF0C\u53EF\u4EE5\u901A\u8FC7\u5403\u8089\u6765\u8865\u5145",
-    "LocalizationKey": "",
+    "LocalizationKey": "T-3Su+wuOl7SEQypJnjG5W05a9Rjw=",
     "ParentObjectID": ""
   },
   "FeedbackInfo": {
@@ -49,7 +49,7 @@
   },
   "GameName": {
     "DefaultText": "\u950C",
-    "LocalizationKey": "",
+    "LocalizationKey": "T-OdcZz6u+PeB/iIws+MY0u52TjDg=",
     "ParentObjectID": ""
   },
   "InvertedDirection": false,
@@ -89,7 +89,7 @@
       "ConfidenceModifier": 0.0,
       "Description": {
         "DefaultText": "\u4EBA\u4F53\u5FC5\u987B\u7684\u8425\u517B\u5143\u7D20\uFF0C\u53EF\u4EE5\u901A\u8FC7\u5403\u8089\u6765\u8865\u5145",
-        "LocalizationKey": "",
+        "LocalizationKey": "T-3Su+wuOl7SEQypJnjG5W05a9Rjw=",
         "ParentObjectID": ""
       },
       "EffectsOnActions": [],
@@ -154,7 +154,7 @@
       ],
       "GameName": {
         "DefaultText": "\u975E\u5E38\u7F3A\u950C",
-        "LocalizationKey": "",
+        "LocalizationKey": "T-9yIMk8ItYXofqRZdaWAm42Z6AvA=",
         "ParentObjectID": ""
       },
       "GameOver": false,
@@ -196,7 +196,7 @@
       "ConfidenceModifier": 0.0,
       "Description": {
         "DefaultText": "\u4EBA\u4F53\u5FC5\u987B\u7684\u8425\u517B\u5143\u7D20\uFF0C\u53EF\u4EE5\u901A\u8FC7\u5403\u8089\u6765\u8865\u5145",
-        "LocalizationKey": "",
+        "LocalizationKey": "T-3Su+wuOl7SEQypJnjG5W05a9Rjw=",
         "ParentObjectID": ""
       },
       "EffectsOnActions": [],
@@ -261,7 +261,7 @@
       ],
       "GameName": {
         "DefaultText": "\u5F88\u7F3A\u950C",
-        "LocalizationKey": "",
+        "LocalizationKey": "T-GQ+ivMw2doxtQA/mDpFcc6fsMss=",
         "ParentObjectID": ""
       },
       "GameOver": false,
@@ -303,7 +303,7 @@
       "ConfidenceModifier": 0.0,
       "Description": {
         "DefaultText": "\u4EBA\u4F53\u5FC5\u987B\u7684\u8425\u517B\u5143\u7D20\uFF0C\u53EF\u4EE5\u901A\u8FC7\u5403\u8089\u6765\u8865\u5145",
-        "LocalizationKey": "",
+        "LocalizationKey": "T-3Su+wuOl7SEQypJnjG5W05a9Rjw=",
         "ParentObjectID": ""
       },
       "EffectsOnActions": [],
@@ -368,7 +368,7 @@
       ],
       "GameName": {
         "DefaultText": "\u7F3A\u950C",
-        "LocalizationKey": "",
+        "LocalizationKey": "T-DliVrn1GO45B2c4p8U+rIga0Xgg=",
         "ParentObjectID": ""
       },
       "GameOver": false,

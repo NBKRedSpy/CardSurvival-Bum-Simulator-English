@@ -49,7 +49,7 @@
   },
   "GameName": {
     "DefaultText": "\u6D41\u6D6A\u6C49\u5730\u56FE\u5F00\u5C40",
-    "LocalizationKey": "",
+    "LocalizationKey": "T-ZwP8YqqGuxSuz3PIxNNY7IKkuZI=",
     "ParentObjectID": ""
   },
   "InvertedDirection": false,
@@ -173,7 +173,7 @@
       ],
       "GameName": {
         "DefaultText": "\u6D41\u6D6A\u6C49\u5730\u56FE\u5F00\u5C40",
-        "LocalizationKey": "",
+        "LocalizationKey": "T-ZwP8YqqGuxSuz3PIxNNY7IKkuZI=",
         "ParentObjectID": ""
       },
       "GameOver": false,
@@ -304,7 +304,7 @@
       "EffectsOnStats": [],
       "GameName": {
         "DefaultText": "\u6D41\u6D6A\u6C49\u5730\u56FE\u5F00\u5C40",
-        "LocalizationKey": "",
+        "LocalizationKey": "T-ZwP8YqqGuxSuz3PIxNNY7IKkuZI=",
         "ParentObjectID": ""
       },
       "GameOver": false,

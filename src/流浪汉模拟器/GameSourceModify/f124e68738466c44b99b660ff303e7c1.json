@@ -5,7 +5,7 @@
     {
       "ActionName": {
         "DefaultText": "cook_0",
-        "LocalizationKey": "",
+        "LocalizationKey": "T-HyuXeRpPG23pTV2oSEpC9zryOF0=",
         "ParentObjectID": ""
       },
       "CannotCookText": {
@@ -80,7 +80,7 @@
       },
       "CustomCookingText": {
         "DefaultText": "{0}\u540E\u5B8C\u6210",
-        "LocalizationKey": "",
+        "LocalizationKey": "T-FOYYcobPVk187e3WMWVcuwy9UOs=",
         "ParentObjectID": ""
       },
       "CustomNotification": {
@@ -199,7 +199,7 @@
     {
       "ActionName": {
         "DefaultText": "cook_1",
-        "LocalizationKey": "",
+        "LocalizationKey": "T-k+hwhCELn4qsLvacUL5yPsFurLI=",
         "ParentObjectID": ""
       },
       "CannotCookText": {
@@ -274,7 +274,7 @@
       },
       "CustomCookingText": {
         "DefaultText": "{0}\u540E\u5B8C\u6210",
-        "LocalizationKey": "",
+        "LocalizationKey": "T-FOYYcobPVk187e3WMWVcuwy9UOs=",
         "ParentObjectID": ""
       },
       "CustomNotification": {
@@ -393,7 +393,7 @@
     {
       "ActionName": {
         "DefaultText": "cook_2",
-        "LocalizationKey": "",
+        "LocalizationKey": "T-9TCV/qFF6HRCHKuvq2qdp9fimkY=",
         "ParentObjectID": ""
       },
       "CannotCookText": {
@@ -468,7 +468,7 @@
       },
       "CustomCookingText": {
         "DefaultText": "{0}\u540E\u5B8C\u6210",
-        "LocalizationKey": "",
+        "LocalizationKey": "T-FOYYcobPVk187e3WMWVcuwy9UOs=",
         "ParentObjectID": ""
       },
       "CustomNotification": {
@@ -587,7 +587,7 @@
     {
       "ActionName": {
         "DefaultText": "cook_3",
-        "LocalizationKey": "",
+        "LocalizationKey": "T-r5vtDuRL5vpap4KbMlBzlWHDKYM=",
         "ParentObjectID": ""
       },
       "CannotCookText": {
@@ -662,7 +662,7 @@
       },
       "CustomCookingText": {
         "DefaultText": "{0}\u540E\u5B8C\u6210",
-        "LocalizationKey": "",
+        "LocalizationKey": "T-FOYYcobPVk187e3WMWVcuwy9UOs=",
         "ParentObjectID": ""
       },
       "CustomNotification": {
@@ -781,7 +781,7 @@
     {
       "ActionName": {
         "DefaultText": "cook_4",
-        "LocalizationKey": "",
+        "LocalizationKey": "T-2+qiXDdMI3q3Tlx7HleNl6HHYGk=",
         "ParentObjectID": ""
       },
       "CannotCookText": {
@@ -856,7 +856,7 @@
       },
       "CustomCookingText": {
         "DefaultText": "{0}\u540E\u5B8C\u6210",
-        "LocalizationKey": "",
+        "LocalizationKey": "T-FOYYcobPVk187e3WMWVcuwy9UOs=",
         "ParentObjectID": ""
       },
       "CustomNotification": {
@@ -975,7 +975,7 @@
     {
       "ActionName": {
         "DefaultText": "cook_5",
-        "LocalizationKey": "",
+        "LocalizationKey": "T-LPy3HkRzDTIKnMD77YdzihuhTqc=",
         "ParentObjectID": ""
       },
       "CannotCookText": {
@@ -1050,7 +1050,7 @@
       },
       "CustomCookingText": {
         "DefaultText": "{0}\u540E\u5B8C\u6210",
-        "LocalizationKey": "",
+        "LocalizationKey": "T-FOYYcobPVk187e3WMWVcuwy9UOs=",
         "ParentObjectID": ""
       },
       "CustomNotification": {
@@ -1169,7 +1169,7 @@
     {
       "ActionName": {
         "DefaultText": "cook_6",
-        "LocalizationKey": "",
+        "LocalizationKey": "T-i4u48WIhOfTlp33KkWubYkEqyaQ=",
         "ParentObjectID": ""
       },
       "CannotCookText": {
@@ -1244,7 +1244,7 @@
       },
       "CustomCookingText": {
         "DefaultText": "{0}\u540E\u5B8C\u6210",
-        "LocalizationKey": "",
+        "LocalizationKey": "T-FOYYcobPVk187e3WMWVcuwy9UOs=",
         "ParentObjectID": ""
       },
       "CustomNotification": {
@@ -1363,7 +1363,7 @@
     {
       "ActionName": {
         "DefaultText": "cook_7",
-        "LocalizationKey": "",
+        "LocalizationKey": "T-ZISuP1Q3EqwKqsXCjHvrL/areBo=",
         "ParentObjectID": ""
       },
       "CannotCookText": {
@@ -1438,7 +1438,7 @@
       },
       "CustomCookingText": {
         "DefaultText": "{0}\u540E\u5B8C\u6210",
-        "LocalizationKey": "",
+        "LocalizationKey": "T-FOYYcobPVk187e3WMWVcuwy9UOs=",
         "ParentObjectID": ""
       },
       "CustomNotification": {
@@ -1557,7 +1557,7 @@
     {
       "ActionName": {
         "DefaultText": "cook_8",
-        "LocalizationKey": "",
+        "LocalizationKey": "T-mgX7SUEZPrz+TVsK2Eg1n/qpwSU=",
         "ParentObjectID": ""
       },
       "CannotCookText": {
@@ -1632,7 +1632,7 @@
       },
       "CustomCookingText": {
         "DefaultText": "{0}\u540E\u5B8C\u6210",
-        "LocalizationKey": "",
+        "LocalizationKey": "T-FOYYcobPVk187e3WMWVcuwy9UOs=",
         "ParentObjectID": ""
       },
       "CustomNotification": {
@@ -1751,7 +1751,7 @@
     {
       "ActionName": {
         "DefaultText": "cook_9",
-        "LocalizationKey": "",
+        "LocalizationKey": "T-NR7EY917yHfb6XJUhS5h0ghT9S0=",
         "ParentObjectID": ""
       },
       "CannotCookText": {
@@ -1826,7 +1826,7 @@
       },
       "CustomCookingText": {
         "DefaultText": "{0}\u540E\u5B8C\u6210",
-        "LocalizationKey": "",
+        "LocalizationKey": "T-FOYYcobPVk187e3WMWVcuwy9UOs=",
         "ParentObjectID": ""
       },
       "CustomNotification": {
@@ -1945,7 +1945,7 @@
     {
       "ActionName": {
         "DefaultText": "\u70E7\u7126\u7269",
-        "LocalizationKey": "",
+        "LocalizationKey": "T-MY04kuUc5KoifydFEGgpSHm0iHc=",
         "ParentObjectID": ""
       },
       "CannotCookText": {
@@ -2020,12 +2020,12 @@
       },
       "CustomCookingText": {
         "DefaultText": "{0}\u540E\u70E7\u7126",
-        "LocalizationKey": "",
+        "LocalizationKey": "T-VHXI9RpqAReS+/0tt4WhtREWfxY=",
         "ParentObjectID": ""
       },
       "CustomNotification": {
         "DefaultText": "{0}\u70E7\u7126\u4E86\u2026\u2026",
-        "LocalizationKey": "",
+        "LocalizationKey": "T-1AzLk7PNaKSZqc8YMnlmHouOLFQ=",
         "ParentObjectID": ""
       },
       "Drops": [

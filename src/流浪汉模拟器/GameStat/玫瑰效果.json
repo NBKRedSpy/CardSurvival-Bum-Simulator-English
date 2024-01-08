@@ -49,7 +49,7 @@
   },
   "GameName": {
     "DefaultText": "\u73AB\u7470\u6548\u679C",
-    "LocalizationKey": "",
+    "LocalizationKey": "T-6/rVQaRvr0VWWGKVzAWCO9c01NM=",
     "ParentObjectID": ""
   },
   "InvertedDirection": false,
@@ -211,7 +211,7 @@
       ],
       "GameName": {
         "DefaultText": "\u4E2D\u7B49\u73AB\u7470\u6548\u679C",
-        "LocalizationKey": "",
+        "LocalizationKey": "T-G1B5ZvLwslDvbBNVnGwJy3Uyx/E=",
         "ParentObjectID": ""
       },
       "GameOver": false,
@@ -375,7 +375,7 @@
       ],
       "GameName": {
         "DefaultText": "\u9AD8\u73AB\u7470\u6548\u679C",
-        "LocalizationKey": "",
+        "LocalizationKey": "T-6Ot34rMqen+Ej+0a2u1L4vJwmq8=",
         "ParentObjectID": ""
       },
       "GameOver": false,

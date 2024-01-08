@@ -1,12 +1,12 @@
 {
   "CardName": {
     "DefaultText": "\u519C\u573A\u63A2\u7D22\u5B8C\u6BD5",
-    "LocalizationKey": "",
+    "LocalizationKey": "T-MUnsJafTkrpaupcz0XRw5DRyRmk=",
     "ParentObjectID": ""
   },
   "CardDescription": {
     "DefaultText": "\u6211\u89C9\u5F97\u5DF2\u7ECF\u627E\u5230\u519C\u573A\u6240\u6709\u53EF\u63A2\u7D22\u7684\u5730\u70B9\u4E86\u3002",
-    "LocalizationKey": "",
+    "LocalizationKey": "T-7pgzmHppOPERwu6M/Ga6WicH5Zc=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -188,7 +188,7 @@
       },
       "ActionName": {
         "DefaultText": "\u7EE7\u7EED",
-        "LocalizationKey": "",
+        "LocalizationKey": "T-H8GvxcVe2MDMKPmXFbU8rOTDcig=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],

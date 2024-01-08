@@ -1,7 +1,7 @@
 {
   "CardName": {
     "DefaultText": "\u7B80\u6613\u62C6\u5E03",
-    "LocalizationKey": "",
+    "LocalizationKey": "T-Nvs1e2UjWYmRMAildRzP8jWTLcY=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -132,7 +132,7 @@
       },
       "ActionName": {
         "DefaultText": "\u89E3\u7F16\u7EC6\u7EBF",
-        "LocalizationKey": "",
+        "LocalizationKey": "T-lKmUNVIfSBihZv2mbvU9bIr5ZIk=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -601,7 +601,7 @@
       },
       "ActionName": {
         "DefaultText": "\u89E3\u7F16\u5E03\u5339",
-        "LocalizationKey": "",
+        "LocalizationKey": "T-+jt2Uhdsb1F6j5SKPSV5ft6gfAE=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -1070,7 +1070,7 @@
       },
       "ActionName": {
         "DefaultText": "\u89E3\u7F16\u5E03\u5339",
-        "LocalizationKey": "",
+        "LocalizationKey": "T-+jt2Uhdsb1F6j5SKPSV5ft6gfAE=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -1539,7 +1539,7 @@
       },
       "ActionName": {
         "DefaultText": "\u89E3\u7F16\u5E03\u5339",
-        "LocalizationKey": "",
+        "LocalizationKey": "T-+jt2Uhdsb1F6j5SKPSV5ft6gfAE=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -2009,7 +2009,7 @@
       },
       "ActionName": {
         "DefaultText": "\u89E3\u7F16\u5E03\u5339",
-        "LocalizationKey": "",
+        "LocalizationKey": "T-+jt2Uhdsb1F6j5SKPSV5ft6gfAE=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -2538,7 +2538,7 @@
       },
       "ActionName": {
         "DefaultText": "\u62C6\u5378\u7B80\u6613\u62C6\u5E03",
-        "LocalizationKey": "",
+        "LocalizationKey": "T-B2xp734UxE7x+3F/0YiEbAZtIl8=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],

@@ -32,7 +32,7 @@
   },
   "Description": {
     "DefaultText": "\u4EBA\u4F53\u5FC5\u987B\u7684\u8425\u517B\u5143\u7D20\uFF0C\u53EF\u4EE5\u901A\u8FC7\u5403\u852C\u83DC\u6C34\u679C\u6765\u8865\u5145",
-    "LocalizationKey": "",
+    "LocalizationKey": "T-VthPzgSp3w5eI1lp44Kb6wrsYyc=",
     "ParentObjectID": ""
   },
   "FeedbackInfo": {
@@ -49,7 +49,7 @@
   },
   "GameName": {
     "DefaultText": "\u7EF4\u751F\u7D20",
-    "LocalizationKey": "",
+    "LocalizationKey": "T-NaOzzXEjZ2dKJR0WSUUHPjOYTjk=",
     "ParentObjectID": ""
   },
   "InvertedDirection": false,
@@ -89,7 +89,7 @@
       "ConfidenceModifier": 0.0,
       "Description": {
         "DefaultText": "\u4EBA\u4F53\u5FC5\u987B\u7684\u8425\u517B\u5143\u7D20\uFF0C\u53EF\u4EE5\u901A\u8FC7\u5403\u852C\u83DC\u6C34\u679C\u6765\u8865\u5145",
-        "LocalizationKey": "",
+        "LocalizationKey": "T-VthPzgSp3w5eI1lp44Kb6wrsYyc=",
         "ParentObjectID": ""
       },
       "EffectsOnActions": [],
@@ -154,7 +154,7 @@
       ],
       "GameName": {
         "DefaultText": "\u975E\u5E38\u7F3A\u7EF4\u751F\u7D20",
-        "LocalizationKey": "",
+        "LocalizationKey": "T-jKZS1vSAbvBGhDiqcPYCfcMMXQA=",
         "ParentObjectID": ""
       },
       "GameOver": false,
@@ -196,7 +196,7 @@
       "ConfidenceModifier": 0.0,
       "Description": {
         "DefaultText": "\u4EBA\u4F53\u5FC5\u987B\u7684\u8425\u517B\u5143\u7D20\uFF0C\u53EF\u4EE5\u901A\u8FC7\u5403\u852C\u83DC\u6C34\u679C\u6765\u8865\u5145",
-        "LocalizationKey": "",
+        "LocalizationKey": "T-VthPzgSp3w5eI1lp44Kb6wrsYyc=",
         "ParentObjectID": ""
       },
       "EffectsOnActions": [],
@@ -261,7 +261,7 @@
       ],
       "GameName": {
         "DefaultText": "\u5F88\u7F3A\u7EF4\u751F\u7D20",
-        "LocalizationKey": "",
+        "LocalizationKey": "T-8IEmfla2PMD1a42RWVibwTyU3IA=",
         "ParentObjectID": ""
       },
       "GameOver": false,
@@ -303,7 +303,7 @@
       "ConfidenceModifier": 0.0,
       "Description": {
         "DefaultText": "\u4EBA\u4F53\u5FC5\u987B\u7684\u8425\u517B\u5143\u7D20\uFF0C\u53EF\u4EE5\u901A\u8FC7\u5403\u852C\u83DC\u6C34\u679C\u6765\u8865\u5145",
-        "LocalizationKey": "",
+        "LocalizationKey": "T-VthPzgSp3w5eI1lp44Kb6wrsYyc=",
         "ParentObjectID": ""
       },
       "EffectsOnActions": [],
@@ -368,7 +368,7 @@
       ],
       "GameName": {
         "DefaultText": "\u7F3A\u7EF4\u751F\u7D20",
-        "LocalizationKey": "",
+        "LocalizationKey": "T-K0navIZsOsG8AsKAeYfzscLsSj8=",
         "ParentObjectID": ""
       },
       "GameOver": false,

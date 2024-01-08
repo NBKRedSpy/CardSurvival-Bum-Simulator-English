@@ -1,12 +1,12 @@
 {
   "CardName": {
     "DefaultText": "\u8FD1\u6D77",
-    "LocalizationKey": "",
+    "LocalizationKey": "T-BpOYsYWEUEaklRG7k79za0cFN8I=",
     "ParentObjectID": ""
   },
   "CardDescription": {
     "DefaultText": "\u4E00\u671B\u65E0\u9645\u7684\u6D77\u6D0B\uFF08\u8FD9\u4E0D\u5C5E\u4E8E\u4F60\u7684\u79C1\u4EBA\u8D22\u4EA7\uFF09",
-    "LocalizationKey": "",
+    "LocalizationKey": "T-pPz8vbhbc4Ep0cC7hM5CsOdZ5bU=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -133,7 +133,7 @@
       },
       "ActionName": {
         "DefaultText": "\u53C9\u9C7C",
-        "LocalizationKey": "",
+        "LocalizationKey": "T-+HJCHyFlUn88MG+lJWrCGk9MmEU=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -1026,7 +1026,7 @@
       },
       "ActionName": {
         "DefaultText": "\u53C9\u9C7C",
-        "LocalizationKey": "",
+        "LocalizationKey": "T-+HJCHyFlUn88MG+lJWrCGk9MmEU=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -1938,7 +1938,7 @@
       },
       "ActionName": {
         "DefaultText": "\u9493\u9C7C",
-        "LocalizationKey": "",
+        "LocalizationKey": "T-gSSDAZdytObj+vpAGocTYJGfyE4=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -2805,7 +2805,7 @@
       },
       "ActionName": {
         "DefaultText": "\u9493\u9C7C",
-        "LocalizationKey": "",
+        "LocalizationKey": "T-gSSDAZdytObj+vpAGocTYJGfyE4=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -3691,7 +3691,7 @@
       },
       "ActionName": {
         "DefaultText": "\u9493\u9C7C",
-        "LocalizationKey": "",
+        "LocalizationKey": "T-gSSDAZdytObj+vpAGocTYJGfyE4=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -4558,7 +4558,7 @@
       },
       "ActionName": {
         "DefaultText": "\u9493\u9C7C",
-        "LocalizationKey": "",
+        "LocalizationKey": "T-gSSDAZdytObj+vpAGocTYJGfyE4=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -5444,7 +5444,7 @@
       },
       "ActionName": {
         "DefaultText": "\u9493\u9C7C",
-        "LocalizationKey": "",
+        "LocalizationKey": "T-gSSDAZdytObj+vpAGocTYJGfyE4=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -6311,7 +6311,7 @@
       },
       "ActionName": {
         "DefaultText": "\u9493\u9C7C",
-        "LocalizationKey": "",
+        "LocalizationKey": "T-gSSDAZdytObj+vpAGocTYJGfyE4=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -7197,7 +7197,7 @@
       },
       "ActionName": {
         "DefaultText": "\u53D6\u6C34",
-        "LocalizationKey": "",
+        "LocalizationKey": "T-Xm/Syr6MbK1yeBRKrUKahdQRlDI=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -7545,7 +7545,7 @@
       },
       "ActionName": {
         "DefaultText": "\u8F70\u9686\uFF01",
-        "LocalizationKey": "",
+        "LocalizationKey": "T-k52YJR5XrDUIh4ObKEnk1VpPsno=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -8098,7 +8098,7 @@
       },
       "ActionName": {
         "DefaultText": "\u8F70\u9686\uFF01",
-        "LocalizationKey": "",
+        "LocalizationKey": "T-k52YJR5XrDUIh4ObKEnk1VpPsno=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -8710,7 +8710,7 @@
       },
       "ActionName": {
         "DefaultText": "\u996E\u7528",
-        "LocalizationKey": "",
+        "LocalizationKey": "T-dZh6limxWBhNJc+0VQstnCG2Q5I=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -8984,7 +8984,7 @@
       },
       "ActionName": {
         "DefaultText": "\u6F5C\u6C34",
-        "LocalizationKey": "",
+        "LocalizationKey": "T-dbxun872Dd91UttbujbiPaJNsGY=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -9819,7 +9819,7 @@
       },
       "ActionName": {
         "DefaultText": "\u6D17\u4E2A\u6FA1",
-        "LocalizationKey": "",
+        "LocalizationKey": "T-XHayfKwch1ne2InFQT3Fnu8/iL4=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -10344,7 +10344,7 @@
     {
       "ActionDescription": {
         "DefaultText": "\u8B66\u544A\uFF1A\u8FD9\u4F1A\u7ED3\u675F\u6E38\u620F\u3002",
-        "LocalizationKey": "",
+        "LocalizationKey": "T-O0jw/X1Dr5N55KSvkZgswDjeFOk=",
         "ParentObjectID": ""
       },
       "ActionLog": {
@@ -10360,7 +10360,7 @@
       },
       "ActionName": {
         "DefaultText": "\u56DE\u5F52\u5927\u6D77",
-        "LocalizationKey": "",
+        "LocalizationKey": "T-18OFLA/9Lk+dNotwIF9DJ3ecwd0=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
